@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
 public class PaginaInicioPageObject extends PageObject {
 
 
-    By hlkProducto = By.xpath("//a[contains(@aria-label,'Desayuno Sorpresa Especial')]");
+    By hlkProducto = By.xpath("//a[contains(@aria-label,'Mini Desayuno de Cumpleaños')]");
 
 
 
