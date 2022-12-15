@@ -1,75 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Agregar producto al carrito" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-12-14T20:57:34" hostname="DESKTOP-NHO4V6K" time="64.12">
+<testsuite name="Agregar producto al carrito" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-15T03:03:01" hostname="DESKTOP-NHO4V6K" time="76.388">
   <properties/>
-  <testcase name="Agregar producto al carrito Exitosamente" classname="Agregar producto al carrito" time="64.12">
-    <failure message="org.openqa.selenium.ElementNotInteractableException: element not interactable&#10;  (Session info: chrome=108.0.5359.100)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-NHO4V6K', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.100, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\NARHEN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58269}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: b1781873cfd79d109ae372a0533ea27e" type="org.openqa.selenium.ElementNotInteractableException">org.openqa.selenium.ElementNotInteractableException: element not interactable
-  (Session info: chrome=108.0.5359.100)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-NHO4V6K', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.100, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\NARHEN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58269}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b1781873cfd79d109ae372a0533ea27e
-	at java.base@11.0.17/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at java.base@11.0.17/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at java.base@11.0.17/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.base@11.0.17/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
-	at app//org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at app//org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at app//org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at app//org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at app//org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at app//org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at app//org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-	at app//org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
-	at app//co.com.juanregala.Steps.PaginaInicioStep.click(PaginaInicioStep.java:30)
-	at app//co.com.juanregala.Steps.PaginaInicioStep$$EnhancerByCGLIB$$5837c2c5.CGLIB$click$2(&lt;generated&gt;)
-	at app//co.com.juanregala.Steps.PaginaInicioStep$$EnhancerByCGLIB$$5837c2c5$$FastClassByCGLIB$$6539982b.invoke(&lt;generated&gt;)
-	at app//net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
-	at app//net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:460)
-	at app//net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:445)
-	at app//net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:420)
-	at app//net.thucydides.core.steps.StepInterceptor.runOrSkipMethod(StepInterceptor.java:175)
-	at app//net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:162)
-	at app//net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:68)
-	at app//co.com.juanregala.Steps.PaginaInicioStep$$EnhancerByCGLIB$$5837c2c5.click(&lt;generated&gt;)
-	at app//co.com.juanregala.Steps.PaginaInicioStep.AgregarProducto(PaginaInicioStep.java:40)
-	at app//co.com.juanregala.Steps.PaginaInicioStep$$EnhancerByCGLIB$$5837c2c5.CGLIB$AgregarProducto$1(&lt;generated&gt;)
-	at app//co.com.juanregala.Steps.PaginaInicioStep$$EnhancerByCGLIB$$5837c2c5$$FastClassByCGLIB$$6539982b.invoke(&lt;generated&gt;)
-	at app//net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
-	at app//net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:460)
-	at app//net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:445)
-	at app//net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:420)
-	at app//net.thucydides.core.steps.StepInterceptor.runOrSkipMethod(StepInterceptor.java:175)
-	at app//net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:162)
-	at app//net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:68)
-	at app//co.com.juanregala.Steps.PaginaInicioStep$$EnhancerByCGLIB$$5837c2c5.AgregarProducto(&lt;generated&gt;)
-	at app//co.com.juanregala.StepDefinitions.AgregarProductoStepDefinition.elDeseeAgregarUnProductoAlCarrito(AgregarProductoStepDefinition.java:36)
-	at ✽.El desee agregar un producto al carrito(src/test/resources/Features/2 AgregarProducto.feature:13)
-</failure>
-  </testcase>
+  <testcase name="Agregar producto al carrito Exitosamente" classname="Agregar producto al carrito" time="76.388"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[dic. 14, 2022 3:57:36 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+  <system-err><![CDATA[dic. 14, 2022 10:03:04 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized --disable..., goog:chromeOptions: {args: [--start-maximized, --disable-popup-blocking, --disable-notifications, --lang=en-us], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
-Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 6848
+Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 41015
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1671051461.626][WARNING]: This version of ChromeDriver has not been tested with Chrome version 108.
-dic. 14, 2022 3:57:42 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+[1671073391.033][WARNING]: This version of ChromeDriver has not been tested with Chrome version 108.
+dic. 14, 2022 10:03:12 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: W3C
-[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - 
-           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
-  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
- (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
-  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
- (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
-          \_\                                                            
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
 
-TEST FAILED WITH ERROR: Agregar producto al carrito Exitosamente
----------------------------------------------------------------------
-[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - TEST FAILED AT STEP Click: By.xpath: //input[contains(@id,'submit')]
-[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - element not interactable
+TEST PASSED: Agregar producto al carrito Exitosamente
+----------------------------------------------------------------------------
 ]]></system-err>
 </testsuite>

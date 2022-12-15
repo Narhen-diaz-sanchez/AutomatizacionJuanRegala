@@ -3,7 +3,7 @@ package co.com.juanregala.PageObject;
 import org.openqa.selenium.By;
 
 public class PaginaProductoPageObject {
-    By btnAgregarProducto = By.xpath("//input[contains(@id,'submit')]");
+    By btnAgregarProducto = By.xpath("//button[@name='add-to-cart']");
 
     By hlkCarrito = By.xpath("//span[contains(text(),'Carrito')]");
 

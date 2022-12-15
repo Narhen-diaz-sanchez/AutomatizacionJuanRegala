@@ -51,7 +51,7 @@ public class PaginaInicioStep {
         String Validar = paginaPrincipalPageObject.getDriver()
                 .findElement(validaciones.getTxtValidarProductoEnCarrito()).getText();
 
-        Assert.assertEquals("Desayuno Sorpresa Especial",Validar);
+        Assert.assertEquals("Mini Desayuno de Cumpleaños",Validar);
     }
 
 

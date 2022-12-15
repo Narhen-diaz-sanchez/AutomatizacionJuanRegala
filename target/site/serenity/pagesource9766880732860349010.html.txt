@@ -1,0 +1,1292 @@
+<html lang="es" class="js yes-js js_active jetpack-lazy-images-js-enabled"><!--<![endif]--><head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://juanregala.com.co/medellin/xmlrpc.php">
+
+					<script src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/js/twk-main.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/js/twk-vendor.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/js/twk-chunk-vendors.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/js/twk-chunk-common.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/js/twk-runtime.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/js/twk-app.js" charset="UTF-8" crossorigin="*"></script><script async="" src="https://snap.licdn.com/li.lms-analytics/insight.old.min.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-5PYBBTR7H7&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-VRLDZ43M4V&amp;l=dataLayer&amp;cx=c"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script gtm="GTM-5GFD22" type="text/javascript" async="" src="https://www.google-analytics.com/gtm/optimize.js?id=GTM-KLGVLDH"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://chimpstatic.com/mcjs-connected/js/users/2d116dbc60a9f08c08b0a7139/a11909712ce8f69b6b663d5e0.js"></script><script async="" src="https://embed.tawk.to/62b49974b0d10b6f3e79011c/1g68nernf" charset="UTF-8" crossorigin="*"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5GFD22"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-57BB8J"></script><script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
+				<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="robots" content="noindex, follow">
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><script>window._wca_prevent_referrer = true;</script>
+<script>window._wca = window._wca || [];</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<!-- This site is optimized with the Yoast SEO plugin v19.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Carrito_2 - Juan Regala Medellin</title>
+	<link rel="canonical" href="https://juanregala.com.co/medellin/carrito_2/">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Carrito_2 - Juan Regala Medellin">
+	<meta property="og:url" content="https://juanregala.com.co/medellin/carrito_2/">
+	<meta property="og:site_name" content="Juan Regala Medellin">
+	<meta property="article:modified_time" content="2022-02-18T04:55:23+00:00">
+	<meta name="twitter:card" content="summary_large_image">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://juanregala.com.co/medellin/carrito_2/","url":"https://juanregala.com.co/medellin/carrito_2/","name":"Carrito_2 - Juan Regala Medellin","isPartOf":{"@id":"https://juanregala.com.co/medellin/#website"},"datePublished":"2022-02-09T08:41:19+00:00","dateModified":"2022-02-18T04:55:23+00:00","breadcrumb":{"@id":"https://juanregala.com.co/medellin/carrito_2/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://juanregala.com.co/medellin/carrito_2/"]}]},{"@type":"BreadcrumbList","@id":"https://juanregala.com.co/medellin/carrito_2/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://juanregala.com.co/medellin/"},{"@type":"ListItem","position":2,"name":"Carrito_2"}]},{"@type":"WebSite","@id":"https://juanregala.com.co/medellin/#website","url":"https://juanregala.com.co/medellin/","name":"Juan Regala Medellin","description":"Regalos y Detalles Sorpresa Originales en Medellín","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://juanregala.com.co/medellin/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//stats.wp.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="Juan Regala Medellin » Feed" href="https://juanregala.com.co/medellin/feed/">
+<link rel="alternate" type="application/rss+xml" title="Juan Regala Medellin » Feed de los comentarios" href="https://juanregala.com.co/medellin/comments/feed/">
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/juanregala.com.co\/medellin\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script><script src="https://juanregala.com.co/medellin/wp-includes/js/wp-emoji-release.min.js?ver=6.1.1" type="text/javascript" defer=""></script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wptwa-public-css" href="https://juanregala.com.co/medellin/wp-content/plugins/wpt-whatsapp/assets/css/public.css?ver=2.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="wptwa-generated-css" href="https://juanregala.com.co/medellin/wp-content/plugins/wpt-whatsapp/assets/css/auto-generated-wptwa.css?ver=1661548218" type="text/css" media="all">
+<style id="wp-block-library-inline-css" type="text/css">
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip:auto!important;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}figure{margin:0 0 1em}
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel="stylesheet" id="classic-theme-styles-css" href="https://juanregala.com.co/medellin/wp-includes/css/classic-themes.min.css?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://juanregala.com.co/medellin/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="https://juanregala.com.co/medellin/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.4.6" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="woo-shipping-display-mode-css" href="https://juanregala.com.co/medellin/wp-content/plugins/woo-shipping-display-mode/public/css/woo-shipping-display-mode-public.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="select2-css" href="https://juanregala.com.co/medellin/wp-content/plugins/woocommerce/assets/css/select2.css?ver=6.8.2" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="flatsome-woocommerce-wishlist-css" href="https://juanregala.com.co/medellin/wp-content/themes/flatsome/inc/integrations/wc-yith-wishlist/wishlist.css?ver=3.10.2" type="text/css" media="all">
+<link rel="stylesheet" id="joinchat-css" href="https://juanregala.com.co/medellin/wp-content/plugins/creame-whatsapp-me/public/css/joinchat-btn.min.css?ver=4.5.9" type="text/css" media="all">
+<link rel="stylesheet" id="flatsome-main-css" href="https://juanregala.com.co/medellin/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.14.3" type="text/css" media="all">
+<style id="flatsome-main-inline-css" type="text/css">
+@font-face {
+				font-family: "fl-icons";
+				font-display: block;
+				src: url(https://juanregala.com.co/medellin/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.14.3);
+				src:
+					url(https://juanregala.com.co/medellin/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.14.3) format("embedded-opentype"),
+					url(https://juanregala.com.co/medellin/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.14.3) format("woff2"),
+					url(https://juanregala.com.co/medellin/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.14.3) format("truetype"),
+					url(https://juanregala.com.co/medellin/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.14.3) format("woff"),
+					url(https://juanregala.com.co/medellin/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.14.3#fl-icons) format("svg");
+			}
+</style>
+<link rel="stylesheet" id="flatsome-shop-css" href="https://juanregala.com.co/medellin/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.14.3" type="text/css" media="all">
+<link rel="stylesheet" id="flatsome-style-css" href="https://juanregala.com.co/medellin/wp-content/themes/flatsome/style.css?ver=3.14.3" type="text/css" media="all">
+<link rel="stylesheet" id="flatsome-googlefonts-css" href="//fonts.googleapis.com/css?family=Lexend%3Aregular%2C500%7CKarla%3Aregular%2Cregular%7CPrompt%3Aregular%2C500%7CDancing+Script%3Aregular%2C400&amp;display=swap&amp;ver=3.9" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="https://juanregala.com.co/medellin/wp-content/plugins/jetpack/css/jetpack.css?ver=11.2" type="text/css" media="all">
+ <script type="text/javascript" src="https://juanregala.com.co/medellin/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.4.4" id="tp-tools-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.4.6" id="revmin-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/woo-shipping-display-mode/public/js/woo-shipping-display-mode-public.js?ver=1.0.0" id="woo-shipping-display-mode-js"></script>
+<script defer="" type="text/javascript" src="https://stats.wp.com/s-202250.js" id="woocommerce-analytics-js"></script>
+<link rel="https://api.w.org/" href="https://juanregala.com.co/medellin/wp-json/"><link rel="alternate" type="application/json" href="https://juanregala.com.co/medellin/wp-json/wp/v2/pages/8"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://juanregala.com.co/medellin/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://juanregala.com.co/medellin/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 6.1.1">
+<meta name="generator" content="WooCommerce 6.8.2">
+<link rel="shortlink" href="https://juanregala.com.co/medellin/?p=8">
+<link rel="alternate" type="application/json+oembed" href="https://juanregala.com.co/medellin/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjuanregala.com.co%2Fmedellin%2Fcarrito_2%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://juanregala.com.co/medellin/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjuanregala.com.co%2Fmedellin%2Fcarrito_2%2F&amp;format=xml">
+<meta name="generator" content="Site Kit by Google 1.81.0">
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to off -->
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Juan Regala"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script>
+	console.warn && console.warn("[GTM4WP] Google Tag Manager container code placement set to OFF !!!");
+	console.warn && console.warn("[GTM4WP] Data layer codes are active but GTM container must be loaded using custom coding !!!");
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><style>img#wpstats{display:none}</style>
+	<style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><!--[if IE]><link rel="stylesheet" type="text/css" href="https://juanregala.com.co/medellin/wp-content/themes/flatsome/assets/css/ie-fallback.css"><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><script src="https://juanregala.com.co/medellin/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script><![endif]--><script type="text/javascript">
+
+jQuery( document ).ready(function() {
+    jQuery(".product-categories .cat-parent").addClass( "active");
+});
+</script>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="google-site-verification" content="TeMV3g_3RbGgpyfuWK7H05rYPmOTAcY4KDp2AHIfYO8">
+<!-- Fragmento de código de Google Adsense añadido por Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- Final del fragmento de código de Google Adsense añadido por Site Kit -->
+<!-- Easy Pixels: Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-57BB8J');</script><!-- Easy Pixels: End Google Tag Manager --><!-- Easy Pixels: Global site tag (gtag.js) - Google Analytics --><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-28452821-2"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-28452821-2');</script>			<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		<meta name="generator" content="Powered by Slider Revolution 6.4.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<link rel="icon" href="https://juanregala.com.co/medellin/wp-content/uploads/2021/11/cropped-logo_identidad_juaregala-100x100.png" sizes="32x32">
+<link rel="icon" href="https://juanregala.com.co/medellin/wp-content/uploads/2021/11/cropped-logo_identidad_juaregala-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://juanregala.com.co/medellin/wp-content/uploads/2021/11/cropped-logo_identidad_juaregala-300x300.png">
+<meta name="msapplication-TileImage" content="https://juanregala.com.co/medellin/wp-content/uploads/2021/11/cropped-logo_identidad_juaregala-300x300.png">
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+<style id="custom-css" type="text/css">:root {--primary-color: #ec0808;}.full-width .ubermenu-nav, .container, .row{max-width: 1450px}.row.row-collapse{max-width: 1420px}.row.row-small{max-width: 1442.5px}.row.row-large{max-width: 1480px}.header-main{height: 87px}#logo img{max-height: 87px}#logo{width:225px;}.header-bottom{min-height: 10px}.header-top{min-height: 33px}.transparent .header-main{height: 30px}.transparent #logo img{max-height: 30px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 60px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.search-form{ width: 100%;}.header-bg-color, .header-wrapper {background-color: rgba(255,255,255,0.9)}.header-bottom {background-color: #f1f1f1}.top-bar-nav > li > a{line-height: 17px }@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}.nav-dropdown{font-size:97%}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #ec0808;}/* Color !important */[data-text-color="primary"]{color: #ec0808!important;}/* Background Color */[data-text-bg="primary"]{background-color: #ec0808;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #ec0808;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #ec0808}.nav-tabs > li.active > a{border-top-color: #ec0808}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #ec0808 }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #ec0808 }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #ec0808;}/* Background Color */[data-icon-label]:after, .secondary.is-underline:hover,.secondary.is-outline:hover,.icon-label,.button.secondary:not(.is-outline),.button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button, .current .breadcrumb-step{ background-color:#f74707; }[data-text-bg="secondary"]{background-color: #f74707;}/* Color */.secondary.is-underline,.secondary.is-link, .secondary.is-outline,.stars a.active, .star-rating:before, .woocommerce-page .star-rating:before,.star-rating span:before, .color-secondary{color: #f74707}/* Color !important */[data-text-color="secondary"]{color: #f74707!important;}/* Border */.secondary.is-outline:hover{border-color:#f74707}.success.is-underline:hover,.success.is-outline:hover,.success{background-color: #000000}.success-color, .success.is-link, .success.is-outline{color: #000000;}.success-border{border-color: #000000!important;}/* Color !important */[data-text-color="success"]{color: #000000!important;}/* Background Color */[data-text-bg="success"]{background-color: #000000;}.alert.is-underline:hover,.alert.is-outline:hover,.alert{background-color: #0581df}.alert.is-link, .alert.is-outline, .color-alert{color: #0581df;}/* Color !important */[data-text-color="alert"]{color: #0581df!important;}/* Background Color */[data-text-bg="alert"]{background-color: #0581df;}body{font-size: 100%;}@media screen and (max-width: 549px){body{font-size: 100%;}}body{font-family:"Karla", sans-serif}body{font-weight: 0}.nav > li > a {font-family:"Prompt", sans-serif;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-family:"Prompt", sans-serif;}.nav > li > a {font-weight: 500;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-weight: 500;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: "Lexend", sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2{font-weight: 500;}.alt-font{font-family: "Dancing Script", sans-serif;}.alt-font{font-weight: 400!important;}a{color: #a26161;}.has-equal-box-heights .box-image {padding-top: 100%;}@media screen and (min-width: 550px){.products .box-vertical .box-image{min-width: 600px!important;width: 600px!important;}}.footer-1{background-color: #ffffff}.footer-2{background-color: #ffffff}.absolute-footer, html{background-color: #f1f1f1}.label-new.menu-item > a:after{content:"Nuevo";}.label-hot.menu-item > a:after{content:"Caliente";}.label-sale.menu-item > a:after{content:"Oferta";}.label-popular.menu-item > a:after{content:"Popular";}</style>		<style type="text/css" id="wp-custom-css">
+			.woocommerce-Price-amount.amount {
+  color: #434447;
+}
+.name.product-title.woocommerce-loop-product__title {
+  color: #be0b07;
+	font-size: 18px;
+}
+.product-title.product_title.entry-title {
+  color: #be0b07;
+}
+.woocommerce-Reviews.row {
+	display: none;
+}
+.tabs.wc-tabs.product-tabs.small-nav-collapse.nav.nav-uppercase.nav-line.nav-left {
+	display: none;
+}
+.woocommerce-form__label.woocommerce-form__label-for-checkbox.checkbox {
+	display: none;
+}
+.woocommerce-additional-fields {
+	display: none;
+}
+.cat-item.cat-item-25 {
+	display: none;
+}
+.cat-item.cat-item-26 {
+	display: none;
+}
+.cat-item.cat-item-27 {
+	display: none;
+}
+.cat-item.cat-item-30 {
+	display: none;
+}
+.cat-item.cat-item-32 {
+	display: none;
+}
+.cat-item.cat-item-77 {
+	display: none;
+}
+.cat-item.cat-item-78 {
+	display: none;
+}
+.cat-item.cat-item-84 {
+	display: none;
+}
+.cat-item.cat-item-36 {
+	display: none;
+}
+.cat-item.cat-item-37 {
+	display: none;
+}
+.cat-item.cat-item-79 {
+	display: none;
+}
+.cat-item.cat-item-64 {
+	display: none;
+}
+.cat-item.cat-item-38 {
+	display: none;
+}
+.cat-item.cat-item-39 {
+	display: none;
+}
+.cat-item.cat-item-65 {
+	display: none;
+}
+.cat-item.cat-item-40 {
+	display: none;
+}
+.cat-item.cat-item-45 {
+	display: none;
+}
+.cat-item.cat-item-46 {
+	display: none;
+}
+.cat-item.cat-item-47 {
+	display: none;
+}
+.cat-item.cat-item-48 {
+	display: none;
+}
+.cat-item.cat-item-49 {
+	display: none;
+}
+.cat-item.cat-item-50 {
+	display: none;
+}
+.cat-item.cat-item-51 {
+	display: none;
+}
+.cat-item.cat-item-53 {
+	display: none;
+}
+.cat-item.cat-item-56 {
+	display: none;
+}
+.cat-item.cat-item-57 {
+	display: none;
+}
+.cat-item.cat-item-58 {
+	display: none;
+}
+.cat-item.cat-item-59 {
+	display: none;
+}
+.cat-item.cat-item-21 {
+	display: none;
+}
+.cat-item.cat-item-20 {
+	display: none;
+}
+.cat-item.cat-item-70 {
+	display: none;
+}
+.cat-item.cat-item-41 {
+	display: none;
+}
+.cat-item.cat-item-42 {
+	display: none;
+}
+.cat-item.cat-item-43 {
+	display: none;
+}
+.cat-item.cat-item-71 {
+	display: none;
+}
+.cat-item.cat-item-72 {
+	display: none;
+}
+.cat-item.cat-item-52 {
+	display: none;
+}
+.cat-item.cat-item-54 {
+	display: none;
+}
+.cat-item.cat-item-55 {
+	display: none;
+}		</style>
+		<script data-ampdevmode="" type="text/javascript">
+/* <![CDATA[ */
+	var wpNotesIsJetpackClient = true;
+	var wpNotesIsJetpackClientV2 = true;
+			var wpNotesLinkAccountsURL = 'https://juanregala.com.co/medellin/wp-admin/admin.php?page=jetpack';
+/* ]]> */
+</script>
+			
+	
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GFD22');</script>
+<!-- End Google Tag Manager -->
+	
+	
+	<!-- Global site tag (gtag.js) - Google Ads: 995831161 -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-995831161"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-995831161');
+</script>
+
+	
+	
+	
+	<!-- Event snippet for JuanRegala conversion page -->
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-995831161/MVkkCN_M5QYQ-drs2gM',
+      'value': 1.0,
+      'currency': 'COP'
+  });
+</script>
+
+	
+<meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/995831161/?random=1671073259917&amp;cv=11&amp;fst=1671073259917&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=2oabu0&amp;u_w=1366&amp;u_h=768&amp;hn=www.googleadservices.com&amp;frm=0&amp;url=https%3A%2F%2Fjuanregala.com.co%2Fmedellin%2Fcarrito_2%2F&amp;ref=https%3A%2F%2Fjuanregala.com.co%2Fmedellin%2Ftienda%2Fmini-desayuno-de-cumpleanos%2F&amp;tiba=Carrito_2%20-%20Juan%20Regala%20Medellin&amp;auid=2064915299.1671073203&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion/995831161/?random=1671073259945&amp;cv=11&amp;fst=1671073259945&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=2oabu0&amp;u_w=1366&amp;u_h=768&amp;label=MVkkCN_M5QYQ-drs2gM&amp;hn=www.googleadservices.com&amp;frm=0&amp;url=https%3A%2F%2Fjuanregala.com.co%2Fmedellin%2Fcarrito_2%2F&amp;ref=https%3A%2F%2Fjuanregala.com.co%2Fmedellin%2Ftienda%2Fmini-desayuno-de-cumpleanos%2F&amp;tiba=Carrito_2%20-%20Juan%20Regala%20Medellin&amp;value=1&amp;currency_code=COP&amp;gtm_ee=1&amp;auid=2064915299.1671073203&amp;data=event%3Dconversion&amp;rfmt=3&amp;fmt=4"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/js/twk-chunk-2c78ba82.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/js/twk-chunk-696bc286.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/js/twk-chunk-f1596d96.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/js/twk-chunk-48f46bef.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/js/twk-chunk-4fe9d5dd.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/js/twk-chunk-2d0b9454.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/js/twk-chunk-f163fcd0.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/js/twk-chunk-32507910.js"></script><style type="text/css">#befosqjso371671073261298 {outline:none !important;
+visibility:visible !important;
+resize:none !important;
+box-shadow:none !important;
+overflow:visible !important;
+background:none !important;
+opacity:1 !important;
+filter:alpha(opacity=100) !important;
+-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important;
+-mz-opacity:1 !important;
+-khtml-opacity:1 !important;
+top:auto !important;
+right:0px !important;
+bottom:0px !important;
+left:auto !important;
+position:fixed !important;
+border:0 !important;
+min-height:0px  !important;
+min-width:0px  !important;
+max-height:none  !important;
+max-width:none  !important;
+padding:0px !important;
+margin:0px !important;
+-moz-transition-property:none !important;
+-webkit-transition-property:none !important;
+-o-transition-property:none !important;
+transition-property:none !important;
+transform:none !important;
+-webkit-transform:none !important;
+-ms-transform:none !important;
+width:auto !important;
+height:auto  !important;
+display:none !important;
+z-index:2000000000 !important;
+background-color:transparent !important;
+cursor:none !important;
+float:none !important;
+border-radius:unset !important;
+pointer-events:auto !important;
+clip:auto !important;
+color-scheme:light !important;}#befosqjso371671073261298.widget-hidden {display: none !important;}#befosqjso371671073261298.widget-visible {display: block !important;}
+@media print{
+ #befosqjso371671073261298.widget-visible { 
+display: none !important;
+ }
+}</style><script src="https://cdn.jsdelivr.net/emojione/2.2.7/lib/js/emojione.min.js" type="text/javascript" async="" defer=""></script><script src="https://cdn.jsdelivr.net/emojione/2.2.7/lib/js/emojione.min.js" type="text/javascript" async="" defer=""></script><style type="text/css">@keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}@-moz-keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}@-webkit-keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}#tqfom325i97o1671073261512.open{animation : tawkMaxOpen .25s ease!important;}@keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}@-moz-keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}@-webkit-keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}#tqfom325i97o1671073261512.closed{animation: tawkMaxClose .25s ease!important}</style></head>
+
+<body data-rsssl="1" class="page-template-default page page-id-8 logged-in theme-flatsome woocommerce-cart woocommerce-page woocommerce-js lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border"><div id="yith-wcwl-popup-message" style="display: none;"><div id="yith-wcwl-message"></div></div>
+	
+	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GFD22"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	
+	
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg>
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+<div id="wrapper">
+
+	
+	<header id="header" class="header has-sticky sticky-jump">
+		<div class="header-wrapper">
+			<div id="top-bar" class="header-top hide-for-sticky nav-dark">
+    <div class="flex-row container">
+      <div class="flex-col hide-for-medium flex-left">
+          <ul class="nav nav-left medium-nav-center nav-small  nav-divided">
+              <li class="html custom html_topbar_left">¡Regalos Sorpresa para hombres, Regalos Sorpresa para Mujeres. Regalos para ¡todos!</li>          </ul>
+      </div>
+
+      <div class="flex-col hide-for-medium flex-center">
+          <ul class="nav nav-center nav-small  nav-divided">
+                        </ul>
+      </div>
+
+      <div class="flex-col hide-for-medium flex-right">
+         <ul class="nav top-bar-nav nav-right nav-small  nav-divided">
+              <li id="menu-item-2856" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2856 menu-item-design-default"><a href="https://juanregala.com.co/medellin/tienda/" class="nav-top-link">TODOS Los Regalos</a></li>
+<li class="account-item has-icon
+     has-dropdown">
+
+<a href="https://juanregala.com.co/medellin/mi-cuenta_2/" class="account-link account-login
+  " title="Mi cuenta">
+
+			<span class="header-account-title">
+		Mi cuenta		</span>
+	
+  
+</a>
+
+
+
+<ul class="nav-dropdown  nav-dropdown-default">
+    
+      <li class="woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--dashboard is-active active">
+          <a href="https://juanregala.com.co/medellin/mi-cuenta_2/">Escritorio</a>
+      <!-- empty -->
+        </li>
+      <li class="woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--orders">
+          <a href="https://juanregala.com.co/medellin/mi-cuenta_2/orders/">Pedidos</a>
+        </li>
+      <li class="woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--downloads">
+          <a href="https://juanregala.com.co/medellin/mi-cuenta_2/downloads/">Descargas</a>
+        </li>
+      <li class="woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--edit-address">
+          <a href="https://juanregala.com.co/medellin/mi-cuenta_2/edit-address/">Dirección</a>
+        </li>
+      <li class="woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--edit-account">
+          <a href="https://juanregala.com.co/medellin/mi-cuenta_2/edit-account/">Detalles de la cuenta</a>
+        </li>
+    		<li class="wishlist-account-element ">
+			<a href="https://juanregala.com.co/medellin/lista-de-deseos-2/">Lista de deseos-2</a>
+		</li>
+		  <li class="woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--customer-logout">
+    <a href="https://juanregala.com.co/medellin/mi-cuenta_2/customer-logout/">Salir</a>
+  </li>
+</ul>
+
+</li>
+<li class="cart-item has-icon">
+
+<a href="https://juanregala.com.co/medellin/carrito_2/" title="Carrito" class="header-cart-link is-small">
+
+
+<span class="header-cart-title">
+   Carrito   /       <span class="cart-price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>159,800</bdi></span></span>
+  </span>
+
+    		<span class="cart-icon image-icon">
+			<strong>2</strong>
+		</span>
+		
+  </a>
+
+
+</li>
+          </ul>
+      </div>
+
+            <div class="flex-col show-for-medium flex-grow">
+          <ul class="nav nav-center nav-small mobile-nav  nav-divided">
+              <li class="html custom html_topbar_left">¡Regalos Sorpresa para hombres, Regalos Sorpresa para Mujeres. Regalos para ¡todos!</li>          </ul>
+      </div>
+      
+    </div>
+</div>
+<div id="masthead" class="header-main has-sticky-logo">
+      <div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
+
+          <!-- Logo -->
+          <div id="logo" class="flex-col logo">
+            <!-- Header logo -->
+<a href="https://juanregala.com.co/medellin/" title="Juan Regala Medellin - Regalos y Detalles Sorpresa Originales en Medellín" rel="home">
+    <img width="225" height="87" src="https://juanregala.com.co/medellin/wp-content/uploads/2022/08/LOGO-JUAN-REGALA.jpg" class="header-logo-sticky" alt="Juan Regala Medellin"><img width="225" height="87" src="https://juanregala.com.co/medellin/wp-content/uploads/2022/08/LOGO-JUAN-REGALA.jpg" class="header_logo header-logo" alt="Juan Regala Medellin"><img width="225" height="87" src="https://juanregala.com.co/medellin/wp-content/uploads/2022/08/LOGO-JUAN-REGALA.jpg" class="header-logo-dark" alt="Juan Regala Medellin"></a>
+          </div>
+
+          <!-- Mobile Left Elements -->
+          <div class="flex-col show-for-medium flex-left">
+            <ul class="mobile-nav nav nav-left ">
+              <li class="nav-icon has-icon">
+  		<a href="#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay" data-color="" class="is-small" aria-label="Menú" aria-controls="main-menu" aria-expanded="false">
+		
+		  <i class="icon-menu"></i>
+		  		</a>
+	</li>            </ul>
+          </div>
+
+          <!-- Left Elements -->
+          <div class="flex-col hide-for-medium flex-left
+            flex-grow">
+            <ul class="header-nav header-nav-main nav nav-left  nav-uppercase nav-prompts-overlay">
+              <li id="menu-item-5122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5122 menu-item-design-default has-dropdown"><a href="#" class="nav-top-link">ANCHETAS<i class="icon-angle-down"></i></a>
+<ul class="sub-menu nav-dropdown nav-dropdown-default">
+	<li id="menu-item-2827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2827"><a href="https://juanregala.com.co/medellin/categoria/regalos/anchetas-dulces-en-medellin/">Anchetas Dulces</a></li>
+	<li id="menu-item-5123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5123"><a href="https://juanregala.com.co/medellin/anchetas-navidad-medellin/">Anchetas Navideñas</a></li>
+	<li id="menu-item-5155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5155"><a href="https://juanregala.com.co/medellin/cenas-romanticas-medellin/">Cenas Románticas</a></li>
+</ul>
+</li>
+<li id="menu-item-2804" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2804 menu-item-design-default"><a href="https://juanregala.com.co/medellin/categoria/regalos/chocolates-medellin/" class="nav-top-link">CHOCOLATES</a></li>
+<li id="menu-item-2857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2857 menu-item-design-default has-dropdown"><a href="#" class="nav-top-link">FLORES<i class="icon-angle-down"></i></a>
+<ul class="sub-menu nav-dropdown nav-dropdown-default">
+	<li id="menu-item-3505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3505"><a href="https://juanregala.com.co/medellin/categoria/regalos/arreglos-florales-en-medellin/">Medellín</a></li>
+	<li id="menu-item-3504" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3504"><a href="https://juanregala.com.co/bogota/tienda/">Bogotá</a></li>
+</ul>
+</li>
+<li id="menu-item-4416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4416 menu-item-design-default"><a href="https://juanregala.com.co/medellin/categoria/globos-con-helio-domicilio/" class="nav-top-link">GLOBOS</a></li>
+<li id="menu-item-5119" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5119 menu-item-design-default has-dropdown"><a href="#" class="nav-top-link">DECORACIÓN<i class="icon-angle-down"></i></a>
+<ul class="sub-menu nav-dropdown nav-dropdown-default">
+	<li id="menu-item-5245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5245"><a href="https://juanregala.com.co/medellin/tienda/sorpresa-rosa-preservada-en-urna/">Sorpresa Rosa Preservada</a></li>
+	<li id="menu-item-5135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5135"><a href="https://juanregala.com.co/medellin/tienda/oso-de-rosas/">Osos de Rosas</a></li>
+	<li id="menu-item-5148" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5148"><a href="https://juanregala.com.co/medellin/tienda/corazon-de-rosas/">Corazón de Rosas</a></li>
+	<li id="menu-item-5118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5118"><a href="https://juanregala.com.co/medellin/tienda/cojines-personalizados/">Cojines Personalizados</a></li>
+	<li id="menu-item-5191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5191"><a href="https://juanregala.com.co/medellin/categoria/que-tenga/velas-rituales/">Velas Rituales</a></li>
+</ul>
+</li>
+<li id="menu-item-2826" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2826 menu-item-design-default"><a href="https://juanregala.com.co/medellin/categoria/regalos/desayunos-sorpresa-a-domicilio-medellin/" class="nav-top-link">DESAYUNOS</a></li>
+<li id="menu-item-2823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2823 menu-item-design-default"><a href="https://juanregala.com.co/medellin/categoria/munecos-o-peluches/" class="nav-top-link">PELUCHES</a></li>
+<li id="menu-item-2824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2824 menu-item-design-default"><a href="https://juanregala.com.co/medellin/categoria/regalos/accesorios-cuidado-personal-en-medellin/" class="nav-top-link">ACCESORIOS</a></li>
+<li id="menu-item-4823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4823 menu-item-design-default"><a href="https://juanregala.com.co/medellin/categoria/buzos-yeti/" class="nav-top-link">YETI</a></li>
+<li id="menu-item-4363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4363 menu-item-design-default has-dropdown"><a href="#" class="nav-top-link">ORIGINAL<i class="icon-angle-down"></i></a>
+<ul class="sub-menu nav-dropdown nav-dropdown-default">
+	<li id="menu-item-4824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4824"><a href="https://juanregala.com.co/medellin/tienda/flypass/">Flypass</a></li>
+	<li id="menu-item-4858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4858"><a href="https://juanregala.com.co/medellin/tienda/mono-para-carro">Moños Para Carro</a></li>
+</ul>
+</li>
+            </ul>
+          </div>
+
+          <!-- Right Elements -->
+          <div class="flex-col hide-for-medium flex-right">
+            <ul class="header-nav header-nav-main nav nav-right  nav-uppercase nav-prompts-overlay">
+              <li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative is-normal"><form role="search" method="get" class="searchform" action="https://juanregala.com.co/medellin/">
+	<div class="flex-row relative">
+						<div class="flex-col flex-grow">
+			<label class="screen-reader-text" for="woocommerce-product-search-field-0">Buscar por:</label>
+			<input type="search" id="woocommerce-product-search-field-0" class="search-field mb-0" placeholder="Buscar…" value="" name="s" autocomplete="off">
+			<input type="hidden" name="post_type" value="product">
+					</div>
+		<div class="flex-col">
+			<button type="submit" value="Buscar" class="ux-search-submit submit-button secondary button icon mb-0" aria-label="Submit">
+				<i class="icon-search"></i>			</button>
+		</div>
+	</div>
+	<div class="live-search-results text-left z-top"><div class="autocomplete-suggestions" style="position: absolute; display: none; max-height: 300px; z-index: 9999;"></div></div>
+</form>
+</div>	</div>
+</li>            </ul>
+          </div>
+
+          <!-- Mobile Right Elements -->
+          <div class="flex-col show-for-medium flex-right">
+            <ul class="mobile-nav nav nav-right ">
+              <li class="header-search header-search-dropdown has-icon has-dropdown menu-item-has-children">
+	<div class="header-button">	<a href="#" aria-label="Buscar" class="icon primary button round is-small"><i class="icon-search"></i></a>
+	</div>	<ul class="nav-dropdown nav-dropdown-default">
+	 	<li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative is-normal"><form role="search" method="get" class="searchform" action="https://juanregala.com.co/medellin/">
+	<div class="flex-row relative">
+						<div class="flex-col flex-grow">
+			<label class="screen-reader-text" for="woocommerce-product-search-field-1">Buscar por:</label>
+			<input type="search" id="woocommerce-product-search-field-1" class="search-field mb-0" placeholder="Buscar…" value="" name="s" autocomplete="off">
+			<input type="hidden" name="post_type" value="product">
+					</div>
+		<div class="flex-col">
+			<button type="submit" value="Buscar" class="ux-search-submit submit-button secondary button icon mb-0" aria-label="Submit">
+				<i class="icon-search"></i>			</button>
+		</div>
+	</div>
+	<div class="live-search-results text-left z-top"><div class="autocomplete-suggestions" style="position: absolute; display: none; max-height: 300px; z-index: 9999;"></div></div>
+</form>
+</div>	</div>
+</li>	</ul>
+</li>
+<li class="cart-item has-icon">
+
+      <a href="https://juanregala.com.co/medellin/carrito_2/" title="Carrito" class="header-cart-link is-small">
+  
+    		<span class="cart-icon image-icon">
+			<strong>2</strong>
+		</span>
+		
+  </a>
+
+</li>
+            </ul>
+          </div>
+
+      </div>
+     
+            <div class="container"><div class="top-divider full-width"></div></div>
+      </div>
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
+	</header>
+
+	
+	<main id="main" class="">
+<div id="content" class="content-area page-wrapper" role="main">
+	<div class="row row-main">
+		<div class="large-12 col">
+			<div class="col-inner">
+				
+				
+														
+						<div class="woocommerce"><div class="woocommerce-notices-wrapper"></div><div class="woocommerce row row-large row-divided">
+<div class="col large-7 pb-0 ">
+
+
+<form class="woocommerce-cart-form" action="https://juanregala.com.co/medellin/carrito_2/" method="post">
+<div class="cart-wrapper sm-touch-scroll">
+
+	
+	<table class="shop_table shop_table_responsive cart woocommerce-cart-form__contents" cellspacing="0">
+		<thead>
+			<tr>
+				<th class="product-name" colspan="3">Producto</th>
+				<th class="product-price">Precio</th>
+				<th class="product-quantity">Cantidad</th>
+				<th class="product-subtotal">Subtotal</th>
+			</tr>
+		</thead>
+		<tbody>
+			
+								<tr class="woocommerce-cart-form__cart-item cart_item">
+
+						<td class="product-remove">
+							<a href="https://juanregala.com.co/medellin/carrito_2/?remove_item=8c7bbbba95c1025975e548cee86dfadc&amp;_wpnonce=b48dcf2765" class="remove" aria-label="Borrar este artículo" data-product_id="644" data-product_sku="DYSM0007">×</a>						</td>
+
+						<td class="product-thumbnail">
+						<a href="https://juanregala.com.co/medellin/tienda/mini-desayuno-de-cumpleanos/"><img width="600" height="600" src="https://juanregala.com.co/medellin/wp-content/uploads/2021/11/desayuno_cumple_domicilio-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail jetpack-lazy-image jetpack-lazy-image--handled" alt="Mini Desayuno de Cumpleaños" decoding="async" srcset="https://juanregala.com.co/medellin/wp-content/uploads/2021/11/desayuno_cumple_domicilio-600x600.jpg 600w, https://juanregala.com.co/medellin/wp-content/uploads/2021/11/desayuno_cumple_domicilio-100x100.jpg 100w, https://juanregala.com.co/medellin/wp-content/uploads/2021/11/desayuno_cumple_domicilio-150x150.jpg 150w" data-lazy-loaded="1" sizes="(max-width: 600px) 100vw, 600px" loading="eager"></a>						</td>
+
+						<td class="product-name" data-title="Producto">
+						<a href="https://juanregala.com.co/medellin/tienda/mini-desayuno-de-cumpleanos/">Mini Desayuno de Cumpleaños</a>							<div class="show-for-small mobile-product-price">
+								<span class="mobile-product-price__qty">2 x </span>
+								<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>79,900</bdi></span>							</div>
+						</td>
+
+						<td class="product-price" data-title="Precio">
+							<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>79,900</bdi></span>						</td>
+
+						<td class="product-quantity" data-title="Cantidad">
+							<div class="quantity buttons_added">
+		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_639a8dea7445f">Mini Desayuno de Cumpleaños cantidad</label>
+		<input type="number" id="quantity_639a8dea7445f" class="input-text qty text" step="1" min="0" max="" name="cart[8c7bbbba95c1025975e548cee86dfadc][qty]" value="2" title="Cantidad" size="4" placeholder="" inputmode="numeric">
+				<input type="button" value="+" class="plus button is-form">	</div>
+							</td>
+
+						<td class="product-subtotal" data-title="Subtotal">
+							<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>159,800</bdi></span>						</td>
+					</tr>
+					
+			
+			<tr>
+				<td colspan="6" class="actions clear">
+
+					
+<div class="continue-shopping pull-left text-left">
+	<a class="button-continue-shopping button primary is-outline" href="https://juanregala.com.co/medellin/tienda/">
+		←&nbsp;Seguir comprando	</a>
+</div>
+
+					<button type="submit" class="button primary mt-0 pull-left small" name="update_cart" value="Actualizar carrito" disabled="" aria-disabled="true">Actualizar carrito</button>
+
+					<input type="hidden" id="woocommerce-cart-nonce" name="woocommerce-cart-nonce" value="b48dcf2765"><input type="hidden" name="_wp_http_referer" value="/medellin/carrito_2/">				</td>
+			</tr>
+
+					</tbody>
+	</table>
+	<input type="hidden" name="orddd_lite_time_slot" id="hidden_timeslot" value="">
+	<div class="cross-sells">
+					<h2>Puede que estés interesado en…</h2>
+		
+		<div class="products row row-small large-columns-4 medium-columns-3 small-columns-1 has-equal-box-heights">
+
+			
+				
+<div class="product-small col has-hover product type-product post-616 status-publish first instock product_cat-dia-mujer-en-medellin product_cat-para-ella product_cat-dia-de-la-mujer product_cat-regalos-dia-mujer-en-medellin product_cat-ramos-flores-en-medellin product_cat-arreglos-florales-en-medellin product_cat-regalos-corporativos-mujeres-medellin has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://juanregala.com.co/medellin/tienda/ramo-de-flores-para-cumpleanos/" aria-label="Ramo de Flores para Cumpleaños + Globo">
+					<img width="600" height="600" src="https://juanregala.com.co/medellin/wp-content/uploads/2021/11/Bouquete-12-rosas-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail jetpack-lazy-image jetpack-lazy-image--handled" alt="Ramo de Flores para Cumpleaños" decoding="async" srcset="https://juanregala.com.co/medellin/wp-content/uploads/2021/11/Bouquete-12-rosas-600x600.jpg 600w, https://juanregala.com.co/medellin/wp-content/uploads/2021/11/Bouquete-12-rosas-100x100.jpg 100w, https://juanregala.com.co/medellin/wp-content/uploads/2021/11/Bouquete-12-rosas-150x150.jpg 150w" data-lazy-loaded="1" sizes="(max-width: 600px) 100vw, 600px" loading="eager">				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+						<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon" aria-label="Wishlist">
+				<i class="icon-heart"></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-616  wishlist-fragment on-first-load" data-fragment-ref="616" data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:616,&quot;parent_product_id&quot;:616,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Explorar la lista de deseos&quot;,&quot;already_in_wishslist_text&quot;:&quot;\u00a1El producto ya est\u00e1 en tu lista de deseos!&quot;,&quot;product_added_text&quot;:&quot;\u00a1Producto a\u00f1adido!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}">
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+	<a href="?add_to_wishlist=616&amp;_wpnonce=91de9beac0" class="add_to_wishlist single_add_to_wishlist" data-product-id="616" data-product-type="simple" data-original-product-id="616" data-title="Añadir a la lista de deseos" rel="nofollow">
+		<i class="yith-wcwl-icon fa fa-heart-o"></i>		<span>Añadir a la lista de deseos</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+			</div>
+		</div>
+					</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view quick-view-added" data-prod="616" href="#quick-view">Vista Rápida</a>			</div>
+					</div>
+
+		<div class="box-text box-text-products text-center grid-style-2">
+			<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="https://juanregala.com.co/medellin/tienda/ramo-de-flores-para-cumpleanos/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Ramo de Flores para Cumpleaños + Globo</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>89,000</bdi></span> <small class="woocommerce-price-suffix">IVA incluido</small></span>
+</div>		</div>
+	</div>
+		</div>
+</div>
+
+			
+				
+<div class="product-small col has-hover product type-product post-4408 status-publish last instock product_cat-globos-con-helio-domicilio product_cat-originales-a-domicilio-medellin product_cat-mama product_cat-detalles-papa product_cat-dia-del-nino-medellin product_cat-companeros-de-estudio-oficina product_cat-dia-mujer-en-medellin product_cat-hombre-en-medellin product_cat-familiares-medellin product_cat-para-el product_cat-para-ella product_cat-mama-en-medellin product_cat-novia-en-medellin product_cat-regalos-papa product_cat-parejas-en-medellin product_cat-dia-de-la-mujer product_cat-dia-de-la-secretaria-medellin product_cat-dia-de-su-profesion product_cat-dia-del-hombre-medellin product_cat-dia-del-maestro-medellin product_cat-dia-del-padre product_cat-dia-madre-en-medellin product_cat-regalos-dia-mujer-en-medellin product_cat-regalos-dia-padre-en-medellin product_cat-regalos-dia-profesor-en-medellin product_cat-regalos-dia-secretaria-en-medellin product_cat-experiencias-regalar-medellin product_cat-globos-y-munecos-de-peluche product_cat-10-18-anos product_cat-18-anos product_cat-amor-y-amistad-san-valentin product_cat-aniversario product_cat-bienvenida-despedida product_cat-conquista product_cat-regalos-de-cumpleanos product_cat-hasta-50-000 product_cat-hasta-70-000 product_cat-hasta-100-000 product_cat-detalles-amor-amistad-en-medellin product_cat-detalles-aniversario-en-medellin product_cat-detalles-bebes-en-medellin product_cat-detalles-cumpleanos-en-medellin product_cat-detalles-san-valentin-en-medellin product_cat-empleados product_cat-regalos-amigos-en-medellin product_cat-regalos-amor-amistad-en-medellin product_cat-regalos-corporativos-mujeres-medellin product_cat-regalos-cumpleanos-en-medellin product_cat-regalos-mostrar-agradecimiento-en-medellin product_cat-regalos-pronta-recuperacion-en-medellin product_cat-regalos-romanticos-en-medellin product_cat-regalos-san-valentin-en-medellin product_cat-sorprender has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://juanregala.com.co/medellin/tienda/bouquete-globo-con-helio/" aria-label="Bouquete Globos con Helio Cromados">
+					<img width="500" height="489" src="https://juanregala.com.co/medellin/wp-content/uploads/2022/09/Bouquete-Globos-con-Helio-Metalizados-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail jetpack-lazy-image jetpack-lazy-image--handled" alt="Bouquete Globos con Helio Metalizados" decoding="async" srcset="https://juanregala.com.co/medellin/wp-content/uploads/2022/09/Bouquete-Globos-con-Helio-Metalizados-1.jpg 500w, https://juanregala.com.co/medellin/wp-content/uploads/2022/09/Bouquete-Globos-con-Helio-Metalizados-1-300x293.jpg 300w" data-lazy-loaded="1" sizes="(max-width: 500px) 100vw, 500px" loading="eager">				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+						<div class="wishlist-icon">
+			<button class="wishlist-button button is-outline circle icon" aria-label="Wishlist">
+				<i class="icon-heart"></i>			</button>
+			<div class="wishlist-popup dark">
+				
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-4408  wishlist-fragment on-first-load" data-fragment-ref="4408" data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:4408,&quot;parent_product_id&quot;:4408,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Explorar la lista de deseos&quot;,&quot;already_in_wishslist_text&quot;:&quot;\u00a1El producto ya est\u00e1 en tu lista de deseos!&quot;,&quot;product_added_text&quot;:&quot;\u00a1Producto a\u00f1adido!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}">
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+	<a href="?add_to_wishlist=4408&amp;_wpnonce=91de9beac0" class="add_to_wishlist single_add_to_wishlist" data-product-id="4408" data-product-type="simple" data-original-product-id="4408" data-title="Añadir a la lista de deseos" rel="nofollow">
+		<i class="yith-wcwl-icon fa fa-heart-o"></i>		<span>Añadir a la lista de deseos</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+			</div>
+		</div>
+					</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view quick-view-added" data-prod="4408" href="#quick-view">Vista Rápida</a>			</div>
+					</div>
+
+		<div class="box-text box-text-products text-center grid-style-2">
+			<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="https://juanregala.com.co/medellin/tienda/bouquete-globo-con-helio/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Bouquete Globos con Helio Cromados</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>35,000</bdi></span> <small class="woocommerce-price-suffix">IVA incluido</small></span>
+</div>		</div>
+	</div>
+		</div>
+</div>
+
+			
+		</div><!-- row -->
+	</div>
+	</div>
+</form>
+</div>
+
+
+<div class="cart-collaterals large-5 col pb-0">
+	
+	<div class="cart-sidebar col-inner ">
+		<div class="cart_totals ">
+
+	          <table cellspacing="0">
+          <thead>
+              <tr>
+                  <th class="product-name" colspan="2" style="border-width:3px;">Total del carrito</th>
+              </tr>
+          </thead>
+          </table>
+  
+	<h2>Total del carrito</h2>
+
+	<table cellspacing="0" class="shop_table shop_table_responsive">
+
+		<tbody><tr class="cart-subtotal">
+			<th>Subtotal</th>
+			<td data-title="Subtotal"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>159,800</bdi></span></td>
+		</tr>
+
+		
+		
+			
+			<tr class="woocommerce-shipping-totals shipping ">
+	<td class="shipping__inner" colspan="2">
+		<table class="shipping__table ">
+			<tbody>
+				<tr>
+					<th>Envío</th>
+					<td data-title="Envío">
+													<ul id="shipping_method" class="shipping__list woocommerce-shipping-methods">
+																	<li class="shipping__list_item">
+										<input type="hidden" name="shipping_method[0]" data-index="0" id="shipping_method_0_flat_rate4" value="flat_rate:4" class="shipping_method"><label class="shipping__list_label" for="shipping_method_0_flat_rate4">Domicilio</label>									</li>
+															</ul>
+															<p class="woocommerce-shipping-destination">
+									Enviar a <strong>ANTIOQUIA</strong>. 								</p>
+														
+						
+													
+<form class="woocommerce-shipping-calculator" action="https://juanregala.com.co/medellin/carrito_2/" method="post">
+
+	<a href="#" class="shipping-calculator-button">Cambiar dirección</a>
+	<section class="shipping-calculator-form" style="display:none;">
+
+					<p class="form-row form-row-wide" id="calc_shipping_country_field">
+				<select name="calc_shipping_country" id="calc_shipping_country" class="country_to_state country_select" rel="calc_shipping_state">
+					<option value="default">Selecciona un país/región…</option>
+					<option value="CO" selected="selected">Colombia</option>				</select>
+			</p>
+		
+					<p class="form-row form-row-wide" id="calc_shipping_state_field">
+									<span>
+						<select name="calc_shipping_state" class="state_select" id="calc_shipping_state" data-placeholder="Región / Provincia"><option value="">Elige una opción…</option><option value="Amazonas">Amazonas</option><option value="Antioquia">Antioquia</option><option value="Arauca">Arauca</option><option value="Atlántico">Atlántico</option><option value="Bogota d.c">Bogotá D.C.</option><option value="Bolívar">Bolívar</option><option value="Boyacá">Boyacá</option><option value="Caldas">Caldas</option><option value="Caquetá">Caquetá</option><option value="Casanare">Casanare</option><option value="Cauca">Cauca</option><option value="Cesar">Cesar</option><option value="Chocó">Chocó</option><option value="Córdoba">Córdoba</option><option value="Cundinamarca">Cundinamarca</option><option value="Guainía">Guainía</option><option value="Guaviare">Guaviare</option><option value="Huila">Huila</option><option value="La Guajira">La Guajira</option><option value="Magdalena">Magdalena</option><option value="Meta">Meta</option><option value="Nariño">Nariño</option><option value="Norte de Santander">Norte de Santander</option><option value="Putumayo">Putumayo</option><option value="Quindío">Quindío</option><option value="Risaralda">Risaralda</option><option value="San Andrés y Providencia">San Andrés y Providencia</option><option value="Santander">Santander</option><option value="Sucre">Sucre</option><option value="Tolima">Tolima</option><option value="Valle del Cauca">Valle del Cauca</option><option value="Vaupés">Vaupés</option><option value="Vichada">Vichada</option></select>
+					</span>
+								</p>
+		
+					<p class="form-row form-row-wide" id="calc_shipping_city_field">
+				<input type="text" class="input-text" value="" placeholder="Ciudad" name="calc_shipping_city" id="calc_shipping_city" disabled="">
+			</p>
+		
+					<p class="form-row form-row-wide" id="calc_shipping_postcode_field">
+				<input type="text" class="input-text" value="" placeholder="Código postal" name="calc_shipping_postcode" id="calc_shipping_postcode">
+			</p>
+		
+		<p><button type="submit" name="calc_shipping" value="1" class="button">Actualizar</button></p>
+		<input type="hidden" id="woocommerce-shipping-calculator-nonce" name="woocommerce-shipping-calculator-nonce" value="451561c306"><input type="hidden" name="_wp_http_referer" value="/medellin/carrito_2/">	</section>
+</form>
+
+											</td>
+				</tr>
+			</tbody>
+		</table>
+	</td>
+</tr>
+
+			
+		
+		
+		
+		
+		<tr class="order-total">
+			<th>Total</th>
+			<td data-title="Total"><strong><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>159,800</bdi></span></strong> <small class="includes_tax">(incluye <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25,514</span> IVA)</small></td>
+		</tr>
+
+		
+	</tbody></table>
+
+	<div class="wc-proceed-to-checkout">
+		
+<a href="https://juanregala.com.co/medellin/finalizar-compra/" class="checkout-button button alt wc-forward">
+	Finalizar compra</a>
+	</div>
+
+	
+</div>
+				<form class="checkout_coupon mb-0" method="post">
+			<div class="coupon">
+				<h3 class="widget-title"><i class="icon-tag"></i> Cupón</h3><input type="text" name="coupon_code" class="input-text" id="coupon_code" value="" placeholder="Código de cupón"> <input type="submit" class="is-form expand" name="apply_coupon" value="Aplicar cupón">
+							</div>
+		</form>
+				<div class="cart-sidebar-content relative"></div>	</div>
+
+	</div>
+</div>
+
+<div class="cart-footer-content after-cart-content relative"></div></div>
+
+						
+												</div>
+		</div>
+	</div>
+</div>
+
+
+</main>
+
+<footer id="footer" class="footer-wrapper">
+
+	
+<!-- FOOTER 1 -->
+
+<!-- FOOTER 2 -->
+<div class="footer-widgets footer footer-2 ">
+		<div class="row large-columns-3 mb-0">
+	   		
+		<div id="block_widget-2" class="col pb-0 widget block_widget">
+		
+		<p><strong>SERVICIO AL CLIENTE</strong></p>
+<p><strong>Horarios de entregas y atención al cliente:</strong></p>
+<p>Lunes a viernes: 7:30 AM a 4:00 PM&nbsp;</p>
+<p>Sábado: 8:00 AM a 2:00 PM&nbsp;</p>
+<div class="social-icons follow-icons"><a href="https://www.facebook.com/juanregala" target="_blank" data-label="Facebook" rel="noopener noreferrer nofollow" class="icon primary button circle facebook tooltip tooltipstered" aria-label="Síguenos en Facebook"><i class="icon-facebook"></i></a><a href="https://www.instagram.com/juanregala/" target="_blank" rel="noopener noreferrer nofollow" data-label="Instagram" class="icon primary button circle instagram tooltip tooltipstered" aria-label="Síguenos en Instagram"><i class="icon-instagram"></i></a><a href="https://www.youtube.com/user/JuanRegala" target="_blank" rel="noopener noreferrer nofollow" data-label="YouTube" class="icon primary button circle youtube tooltip tooltipstered" aria-label="Síguenos en Youtube"><i class="icon-youtube"></i></a></div>
+		</div>
+		<div id="nav_menu-3" class="col pb-0 widget widget_nav_menu"><span class="widget-title">Soporte</span><div class="is-divider small"></div><div class="menu-soporte-container"><ul id="menu-soporte" class="menu"><li id="menu-item-1651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1651"><a href="https://juanregala.com.co/medellin/contactenos/">Contáctenos</a></li>
+<li id="menu-item-1652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1652"><a href="https://juanregala.com.co/preguntas-frecuentes/">Preguntas frecuentes</a></li>
+<li id="menu-item-1653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1653"><a href="https://juanregala.com.co/faq-pagos-electronicos/">Preguntas frecuentes Place to Pay</a></li>
+</ul></div></div><div id="nav_menu-4" class="col pb-0 widget widget_nav_menu"><span class="widget-title">Políticas &amp; Legal</span><div class="is-divider small"></div><div class="menu-legal-container"><ul id="menu-legal" class="menu"><li id="menu-item-1645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1645"><a href="https://juanregala.com.co/terminos-condiciones/">Términos y condiciones</a></li>
+<li id="menu-item-1646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1646"><a href="https://juanregala.com.co/politica-privacidad/">Política de privacidad</a></li>
+</ul></div></div>        
+		</div>
+</div>
+
+
+
+<div class="absolute-footer dark medium-text-center text-center">
+  <div class="container clearfix">
+
+          <div class="footer-secondary pull-right">
+                <div class="payment-icons inline-block"><img src="https://juanregala.com.co/medellin/wp-content/uploads/2021/11/pagos.jpg" alt="bg_image"></div>      </div>
+    
+    <div class="footer-primary pull-left">
+            <div class="copyright-footer">
+              </div>
+          </div>
+  </div>
+</div>
+
+<a href="#top" class="back-to-top button icon invert plain fixed bottom z-1 is-outline hide-for-medium circle" id="top-link" aria-label="Go to top"><i class="icon-angle-up"></i></a>
+
+</footer>
+
+</div>
+
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+	<div class="sidebar-menu no-scrollbar ">
+		<ul class="nav nav-sidebar nav-vertical nav-uppercase">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5122 has-child" aria-expanded="false"><a href="#">ANCHETAS</a>
+<button class="toggle"><i class="icon-angle-down"></i></button><ul class="sub-menu nav-sidebar-ul children">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2827"><a href="https://juanregala.com.co/medellin/categoria/regalos/anchetas-dulces-en-medellin/">Anchetas Dulces</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5123"><a href="https://juanregala.com.co/medellin/anchetas-navidad-medellin/">Anchetas Navideñas</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5155"><a href="https://juanregala.com.co/medellin/cenas-romanticas-medellin/">Cenas Románticas</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2804"><a href="https://juanregala.com.co/medellin/categoria/regalos/chocolates-medellin/">CHOCOLATES</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2857 has-child" aria-expanded="false"><a href="#">FLORES</a>
+<button class="toggle"><i class="icon-angle-down"></i></button><ul class="sub-menu nav-sidebar-ul children">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3505"><a href="https://juanregala.com.co/medellin/categoria/regalos/arreglos-florales-en-medellin/">Medellín</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3504"><a href="https://juanregala.com.co/bogota/tienda/">Bogotá</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4416"><a href="https://juanregala.com.co/medellin/categoria/globos-con-helio-domicilio/">GLOBOS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5119 has-child" aria-expanded="false"><a href="#">DECORACIÓN</a>
+<button class="toggle"><i class="icon-angle-down"></i></button><ul class="sub-menu nav-sidebar-ul children">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5245"><a href="https://juanregala.com.co/medellin/tienda/sorpresa-rosa-preservada-en-urna/">Sorpresa Rosa Preservada</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5135"><a href="https://juanregala.com.co/medellin/tienda/oso-de-rosas/">Osos de Rosas</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5148"><a href="https://juanregala.com.co/medellin/tienda/corazon-de-rosas/">Corazón de Rosas</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5118"><a href="https://juanregala.com.co/medellin/tienda/cojines-personalizados/">Cojines Personalizados</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5191"><a href="https://juanregala.com.co/medellin/categoria/que-tenga/velas-rituales/">Velas Rituales</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2826"><a href="https://juanregala.com.co/medellin/categoria/regalos/desayunos-sorpresa-a-domicilio-medellin/">DESAYUNOS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2823"><a href="https://juanregala.com.co/medellin/categoria/munecos-o-peluches/">PELUCHES</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2824"><a href="https://juanregala.com.co/medellin/categoria/regalos/accesorios-cuidado-personal-en-medellin/">ACCESORIOS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4823"><a href="https://juanregala.com.co/medellin/categoria/buzos-yeti/">YETI</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4363 has-child" aria-expanded="false"><a href="#">ORIGINAL</a>
+<button class="toggle"><i class="icon-angle-down"></i></button><ul class="sub-menu nav-sidebar-ul children">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4824"><a href="https://juanregala.com.co/medellin/tienda/flypass/">Flypass</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4858"><a href="https://juanregala.com.co/medellin/tienda/mono-para-carro">Moños Para Carro</a></li>
+</ul>
+</li>
+<li class="header-divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2856"><a href="https://juanregala.com.co/medellin/tienda/">TODOS Los Regalos</a></li>
+<li class="account-item has-icon menu-item has-child" aria-expanded="false">
+
+<a href="https://juanregala.com.co/medellin/mi-cuenta_2/" class="account-link account-login" title="Mi cuenta">
+    <span class="header-account-title">
+    Mi cuenta  </span>
+</a>
+
+
+<button class="toggle"><i class="icon-angle-down"></i></button><ul class="children">
+    
+      <li class="woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--dashboard is-active active">
+          <a href="https://juanregala.com.co/medellin/mi-cuenta_2/">Escritorio</a>
+      <!-- empty -->
+        </li>
+      <li class="woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--orders">
+          <a href="https://juanregala.com.co/medellin/mi-cuenta_2/orders/">Pedidos</a>
+        </li>
+      <li class="woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--downloads">
+          <a href="https://juanregala.com.co/medellin/mi-cuenta_2/downloads/">Descargas</a>
+        </li>
+      <li class="woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--edit-address">
+          <a href="https://juanregala.com.co/medellin/mi-cuenta_2/edit-address/">Dirección</a>
+        </li>
+      <li class="woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--edit-account">
+          <a href="https://juanregala.com.co/medellin/mi-cuenta_2/edit-account/">Detalles de la cuenta</a>
+        </li>
+    		<li class="wishlist-account-element ">
+			<a href="https://juanregala.com.co/medellin/lista-de-deseos-2/">Lista de deseos-2</a>
+		</li>
+		  <li class="woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--customer-logout">
+    <a href="https://juanregala.com.co/medellin/mi-cuenta_2/customer-logout/">Salir</a>
+  </li>
+</ul>
+</li>
+		</ul>
+	</div>
+</div>
+
+<!--Start of Tawk.to Script (0.7.2)-->
+<script id="tawk-script" type="text/javascript">
+var Tawk_API = Tawk_API || {};
+Tawk_API.visitor = JSON.parse("{\"name\":\"narhen2015\",\"email\":\"narhen2015@gmail.com\"}");
+var Tawk_LoadStart=new Date();
+(function(){
+	var s1 = document.createElement( 'script' ),s0=document.getElementsByTagName( 'script' )[0];
+	s1.async = true;
+	s1.src = 'https://embed.tawk.to/62b49974b0d10b6f3e79011c/1g68nernf';
+	s1.charset = 'UTF-8';
+	s1.setAttribute( 'crossorigin','*' );
+	s0.parentNode.insertBefore( s1, s0 );
+})();
+</script>
+<!--End of Tawk.to Script (0.7.2)-->
+
+			<span class="wptwa-flag"></span>
+			<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+				<symbol id="wptwa-logo">
+					<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522   c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982   c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537   c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938   c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537   c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333   c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882   c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977   c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344   c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223   C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"></path>
+				</symbol>
+			</svg>
+			<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/2d116dbc60a9f08c08b0a7139/a11909712ce8f69b6b663d5e0.js");</script><div class="ux-body-overlay"></div>
+<div class="joinchat joinchat--left joinchat--btn joinchat--show joinchat--tooltip" data-settings="{&quot;telephone&quot;:&quot;573053663534&quot;,&quot;mobile_only&quot;:false,&quot;button_delay&quot;:3,&quot;whatsapp_web&quot;:true,&quot;qr&quot;:false,&quot;message_views&quot;:1,&quot;message_delay&quot;:10,&quot;message_badge&quot;:false,&quot;message_send&quot;:&quot;&quot;,&quot;message_hash&quot;:&quot;&quot;}">
+	<div class="joinchat__button">
+		<div class="joinchat__button__open"></div>
+									<div class="joinchat__tooltip"><div>¿Te puedo ayududar en algo?</div></div>
+					</div>
+	</div>
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Lo siento, este producto no está disponible. Por favor, elige otra combinación.</p>
+</script>
+<link rel="stylesheet" id="dashicons-css" href="https://juanregala.com.co/medellin/wp-includes/css/dashicons.min.css?ver=6.1.1" type="text/css" media="all">
+<style id="dashicons-inline-css" type="text/css">
+[data-font="Dashicons"]:before {font-family: 'Dashicons' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
+</style>
+<link rel="stylesheet" id="admin-bar-css" href="https://juanregala.com.co/medellin/wp-includes/css/admin-bar.min.css?ver=6.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="wpcom-notes-admin-bar-css" href="https://s0.wp.com/wp-content/mu-plugins/notes/admin-bar-v2.css?ver=11.2-202250" type="text/css" media="all">
+<link rel="stylesheet" id="noticons-css" href="https://s0.wp.com/i/noticons/noticons.css?ver=11.2-202250" type="text/css" media="all">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<script type="text/javascript" id="wptwa-public-js-extra">
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"https:\/\/juanregala.com.co\/medellin\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/wpt-whatsapp/assets/js/public.js?ver=2.2.5" id="wptwa-public-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/juanregala.com.co\/medellin\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.2" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.8.2" id="jquery-blockui-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/medellin\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/medellin\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrito","cart_url":"https:\/\/juanregala.com.co\/medellin\/carrito_2\/","is_cart":"1","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.8.2" id="wc-add-to-cart-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.8.2" id="js-cookie-js"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/medellin\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/medellin\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.8.2" id="woocommerce-js"></script>
+<script type="text/javascript" id="wc-country-select-js-extra">
+/* <![CDATA[ */
+var wc_country_select_params = {"countries":"{\"CO\":{\"Amazonas\":\"Amazonas\",\"Antioquia\":\"Antioquia\",\"Arauca\":\"Arauca\",\"Atl\\u00e1ntico\":\"Atl\\u00e1ntico\",\"Bogota d.c\":\"Bogot\\u00e1 D.C.\",\"Bol\\u00edvar\":\"Bol\\u00edvar\",\"Boyac\\u00e1\":\"Boyac\\u00e1\",\"Caldas\":\"Caldas\",\"Caquet\\u00e1\":\"Caquet\\u00e1\",\"Casanare\":\"Casanare\",\"Cauca\":\"Cauca\",\"Cesar\":\"Cesar\",\"Choc\\u00f3\":\"Choc\\u00f3\",\"C\\u00f3rdoba\":\"C\\u00f3rdoba\",\"Cundinamarca\":\"Cundinamarca\",\"Guain\\u00eda\":\"Guain\\u00eda\",\"Guaviare\":\"Guaviare\",\"Huila\":\"Huila\",\"La Guajira\":\"La Guajira\",\"Magdalena\":\"Magdalena\",\"Meta\":\"Meta\",\"Nari\\u00f1o\":\"Nari\\u00f1o\",\"Norte de Santander\":\"Norte de Santander\",\"Putumayo\":\"Putumayo\",\"Quind\\u00edo\":\"Quind\\u00edo\",\"Risaralda\":\"Risaralda\",\"San Andr\\u00e9s y Providencia\":\"San Andr\\u00e9s y Providencia\",\"Santander\":\"Santander\",\"Sucre\":\"Sucre\",\"Tolima\":\"Tolima\",\"Valle del Cauca\":\"Valle del Cauca\",\"Vaup\\u00e9s\":\"Vaup\\u00e9s\",\"Vichada\":\"Vichada\"}}","i18n_select_state_text":"Elige una opci\u00f3n\u2026","i18n_no_matches":"No se han encontrado coincidencias","i18n_ajax_error":"Error al cargar","i18n_input_too_short_1":"Por favor, introduce 1 o m\u00e1s caracteres","i18n_input_too_short_n":"Por favor, introduce %qty% o m\u00e1s caracteres","i18n_input_too_long_1":"Por favor, borra 1 car\u00e1cter.","i18n_input_too_long_n":"Por favor, borra %qty% caracteres","i18n_selection_too_long_1":"Solo puedes seleccionar 1 art\u00edculo","i18n_selection_too_long_n":"Solo puedes seleccionar %qty% art\u00edculos","i18n_load_more":"Cargando m\u00e1s resultados\u2026","i18n_searching":"Buscando\u2026"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=6.8.2" id="wc-country-select-js"></script>
+<script type="text/javascript" id="wc-address-i18n-js-extra">
+/* <![CDATA[ */
+var wc_address_i18n_params = {"locale":"{\"AE\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"required\":false}},\"AF\":{\"state\":{\"required\":false,\"hidden\":true}},\"AL\":{\"state\":{\"label\":\"Provincia\"}},\"AO\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"label\":\"Provincia\"}},\"AT\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"AU\":{\"city\":{\"label\":\"Barrio residencial\"},\"postcode\":{\"label\":\"C\\u00f3digo postal\"},\"state\":{\"label\":\"Provincia\"}},\"AX\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"BA\":{\"postcode\":{\"priority\":65},\"state\":{\"label\":\"Cant\\u00f3n\",\"required\":false,\"hidden\":true}},\"BD\":{\"postcode\":{\"required\":false},\"state\":{\"label\":\"Barrio\"}},\"BE\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"BH\":{\"postcode\":{\"required\":false},\"state\":{\"required\":false,\"hidden\":true}},\"BI\":{\"state\":{\"required\":false,\"hidden\":true}},\"BO\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"label\":\"Departamento\"}},\"BS\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"BZ\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"required\":false}},\"CA\":{\"postcode\":{\"label\":\"C\\u00f3digo postal\"},\"state\":{\"label\":\"Provincia\"}},\"CH\":{\"postcode\":{\"priority\":65},\"state\":{\"label\":\"Cant\\u00f3n\",\"required\":false}},\"CL\":{\"city\":{\"required\":true},\"postcode\":{\"required\":false},\"state\":{\"label\":\"Regi\\u00f3n\"}},\"CN\":{\"state\":{\"label\":\"Provincia\"}},\"CO\":{\"postcode\":[],\"state\":[]},\"CR\":{\"state\":{\"label\":\"Provincia\"}},\"CW\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"required\":false}},\"CZ\":{\"state\":{\"required\":false,\"hidden\":true}},\"DE\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"DK\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"DO\":{\"state\":{\"label\":\"Provincia\"}},\"EC\":{\"state\":{\"label\":\"Provincia\"}},\"EE\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"FI\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"FR\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"GH\":{\"postcode\":{\"required\":false},\"state\":{\"label\":\"Regi\\u00f3n\"}},\"GP\":{\"state\":{\"required\":false,\"hidden\":true}},\"GF\":{\"state\":{\"required\":false,\"hidden\":true}},\"GR\":{\"state\":{\"required\":false}},\"GT\":{\"postcode\":{\"required\":false},\"state\":{\"label\":\"Departamento\"}},\"HK\":{\"postcode\":{\"required\":false},\"city\":{\"label\":\"Localidad \\\/ Distrito\"},\"state\":{\"label\":\"Regi\\u00f3n\"}},\"HN\":{\"state\":{\"label\":\"Departamento\"}},\"HU\":{\"last_name\":{\"class\":[\"form-row-first\"],\"priority\":10},\"first_name\":{\"class\":[\"form-row-last\"],\"priority\":20},\"postcode\":{\"class\":[\"form-row-first\",\"address-field\"],\"priority\":65},\"city\":{\"class\":[\"form-row-last\",\"address-field\"]},\"address_1\":{\"priority\":71},\"address_2\":{\"priority\":72},\"state\":{\"label\":\"Provincia\"}},\"ID\":{\"state\":{\"label\":\"Provincia\"}},\"IE\":{\"postcode\":{\"required\":false,\"label\":\"Eircode\"},\"state\":{\"label\":\"Provincia\"}},\"IS\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"IL\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"IM\":{\"state\":{\"required\":false,\"hidden\":true}},\"IN\":{\"postcode\":{\"label\":\"C\\u00f3digo PIN\"},\"state\":{\"label\":\"Provincia\"}},\"IT\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":true,\"label\":\"Provincia\"}},\"JM\":{\"city\":{\"label\":\"Localidad \\\/ Ciudad \\\/ Oficina postal\"},\"postcode\":{\"required\":false,\"label\":\"C\\u00f3digo postal\"},\"state\":{\"required\":true,\"label\":\"Parish\"}},\"JP\":{\"last_name\":{\"class\":[\"form-row-first\"],\"priority\":10},\"first_name\":{\"class\":[\"form-row-last\"],\"priority\":20},\"postcode\":{\"class\":[\"form-row-first\",\"address-field\"],\"priority\":65},\"state\":{\"label\":\"Prefectura\",\"class\":[\"form-row-last\",\"address-field\"],\"priority\":66},\"city\":{\"priority\":67},\"address_1\":{\"priority\":68},\"address_2\":{\"priority\":69}},\"KR\":{\"state\":{\"required\":false,\"hidden\":true}},\"KW\":{\"state\":{\"required\":false,\"hidden\":true}},\"LV\":{\"state\":{\"label\":\"Municipio\",\"required\":false}},\"LB\":{\"state\":{\"required\":false,\"hidden\":true}},\"MQ\":{\"state\":{\"required\":false,\"hidden\":true}},\"MT\":{\"state\":{\"required\":false,\"hidden\":true}},\"MZ\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"label\":\"Provincia\"}},\"NI\":{\"state\":{\"label\":\"Departamento\"}},\"NL\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"NG\":{\"postcode\":{\"label\":\"C\\u00f3digo postal\",\"required\":false,\"hidden\":true},\"state\":{\"label\":\"Provincia\"}},\"NZ\":{\"postcode\":{\"label\":\"C\\u00f3digo postal\"},\"state\":{\"required\":false,\"label\":\"Regi\\u00f3n\"}},\"NO\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"NP\":{\"state\":{\"label\":\"Provincia \\\/ Zona\"},\"postcode\":{\"required\":false}},\"PA\":{\"state\":{\"label\":\"Provincia\"}},\"PL\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"PR\":{\"city\":{\"label\":\"Municipio\"},\"state\":{\"required\":false,\"hidden\":true}},\"PT\":{\"state\":{\"required\":false,\"hidden\":true}},\"PY\":{\"state\":{\"label\":\"Departamento\"}},\"RE\":{\"state\":{\"required\":false,\"hidden\":true}},\"RO\":{\"state\":{\"label\":\"Provincia\",\"required\":true}},\"RS\":{\"city\":{\"required\":true},\"postcode\":{\"required\":true},\"state\":{\"label\":\"Barrio\",\"required\":false}},\"SG\":{\"state\":{\"required\":false,\"hidden\":true},\"city\":{\"required\":false}},\"SK\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"SI\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"SR\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"SV\":{\"state\":{\"label\":\"Departamento\"}},\"ES\":{\"postcode\":{\"priority\":65},\"state\":{\"label\":\"Provincia\"}},\"LI\":{\"postcode\":{\"priority\":65},\"state\":{\"label\":\"Municipio\",\"required\":false}},\"LK\":{\"state\":{\"required\":false,\"hidden\":true}},\"LU\":{\"state\":{\"required\":false,\"hidden\":true}},\"MD\":{\"state\":{\"label\":\"Municipio \\\/ Barrio\"}},\"SE\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"hidden\":true}},\"TR\":{\"postcode\":{\"priority\":65},\"state\":{\"label\":\"Provincia\"}},\"UG\":{\"postcode\":{\"required\":false,\"hidden\":true},\"city\":{\"label\":\"Ciudad \\\/ pueblo\",\"required\":true},\"state\":{\"label\":\"Barrio\",\"required\":true}},\"US\":{\"postcode\":{\"label\":\"C\\u00f3digo postal\"},\"state\":{\"label\":\"Provincia\"}},\"UY\":{\"state\":{\"label\":\"Departamento\"}},\"GB\":{\"postcode\":{\"label\":\"C\\u00f3digo postal\"},\"state\":{\"label\":\"Provincia\",\"required\":false}},\"ST\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"label\":\"Barrio\"}},\"VN\":{\"state\":{\"required\":false,\"hidden\":true},\"postcode\":{\"priority\":65,\"required\":false,\"hidden\":false},\"address_2\":{\"required\":false,\"hidden\":false}},\"WS\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"YT\":{\"state\":{\"required\":false,\"hidden\":true}},\"ZA\":{\"state\":{\"label\":\"Provincia\"}},\"ZW\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"default\":{\"first_name\":{\"autocomplete\":\"given-name\"},\"last_name\":{\"autocomplete\":\"family-name\"},\"company\":{\"autocomplete\":\"organization\"},\"country\":{\"type\":\"country\",\"autocomplete\":\"country\"},\"address_1\":{\"autocomplete\":\"address-line1\"},\"address_2\":{\"label_class\":[],\"autocomplete\":\"address-line2\"},\"state\":{\"type\":\"state\",\"validate\":[\"state\"],\"autocomplete\":\"address-level1\"},\"city\":{\"autocomplete\":\"address-level2\"},\"postcode\":{\"validate\":[\"postcode\"],\"autocomplete\":\"postal-code\"}}}","locale_fields":"{\"address_1\":\"#billing_address_1_field, #shipping_address_1_field\",\"address_2\":\"#billing_address_2_field, #shipping_address_2_field\",\"state\":\"#billing_state_field, #shipping_state_field, #calc_shipping_state_field\",\"postcode\":\"#billing_postcode_field, #shipping_postcode_field, #calc_shipping_postcode_field\",\"city\":\"#billing_city_field, #shipping_city_field, #calc_shipping_city_field\"}","i18n_required_text":"obligatorio","i18n_optional_text":"opcional"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=6.8.2" id="wc-address-i18n-js"></script>
+<script type="text/javascript" id="wc-cart-js-extra">
+/* <![CDATA[ */
+var wc_cart_params = {"ajax_url":"\/medellin\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/medellin\/?wc-ajax=%%endpoint%%","update_shipping_method_nonce":"311eda0c22","apply_coupon_nonce":"0e45e44904","remove_coupon_nonce":"a1d035e8e0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=6.8.2" id="wc-cart-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.6.8.2" id="selectWoo-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/medellin\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/medellin\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_afcf830791a48de9c0df1b11ce10aee8","fragment_name":"wc_fragments_afcf830791a48de9c0df1b11ce10aee8","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.8.2" id="wc-cart-fragments-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-after">
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			var jetpackLazyImagesLoadEvent;
+			try {
+				jetpackLazyImagesLoadEvent = new Event( 'jetpack-lazy-images-load', {
+					bubbles: true,
+					cancelable: true
+				} );
+			} catch ( e ) {
+				jetpackLazyImagesLoadEvent = document.createEvent( 'Event' )
+				jetpackLazyImagesLoadEvent.initEvent( 'jetpack-lazy-images-load', true, true );
+			}
+			jQuery( 'body' ).get( 0 ).dispatchEvent( jetpackLazyImagesLoadEvent );
+		} );
+		
+</script>
+<script type="text/javascript" id="wc-city-select-js-extra">
+/* <![CDATA[ */
+var wc_city_select_params = {"cities":"{\"CO\":{\"Amazonas\":[\"El encanto\",\"La Chorrera\",\"La Pedrera\",\"La Victoria\",\"Miriti Paran\\u00e1\",\"Leticia\",\"Puerto Alegr\\u00eda\",\"Puerto Arica\",\"Puerto Nari\\u00f1o\",\"Puerto Santander\",\"Tarapac\\u00e1\"],\"Antioquia\":[\"Abejorral\",\"Abriaqui\",\"Alejandria\",\"Altamira\",\"Amaga\",\"Amalfi\",\"Andes\",\"Angelopolis\",\"Angostura\",\"Anori\",\"Anza\",\"Apartado\",\"Arboletes\",\"Argelia\",\"Armenia mantequilla\",\"Barbosa\",\"Bello\",\"Belmira\",\"Betania\",\"Betulia\",\"Bolombolo\",\"Brice\\u00f1o\",\"Buritica\",\"C\\u00e1ceres\",\"Caicedo\",\"Caldas\",\"Campamento\",\"Ca\\u00f1asgordas\",\"Caracoli\",\"Caramanta\",\"Carepa\",\"Carolina del principe\",\"Caucasia\",\"Chigorodo\",\"Cisneros\",\"Ciudad bolivar\",\"Cocorna\",\"Concepcion\",\"Concordia\",\"Copacabana\",\"Currulao\",\"Dabeiba\",\"Donmatias\",\"Doradal\",\"Eb\\u00e9jico\",\"El bagre\",\"El carmen de viboral\",\"El doce\",\"El pe\\u00f1ol\",\"El santuario\",\"El tigre\",\"El tres\",\"Entrerrios\",\"Envigado\",\"Fredonia\",\"Frontino\",\"Giraldo\",\"Girardota\",\"Gomez plata\",\"Granada\",\"Guadalupe\",\"Guarne\",\"Guatape\",\"Heliconia\",\"Hispania\",\"Itag\\u00fci\",\"Ituango\",\"Jardin caceres\",\"Jardin suroeste\",\"Jerico\",\"La ceja\",\"La cruzada\",\"La estrella\",\"La pintada\",\"La sierra\",\"La tablaza\",\"La union\",\"Liborina\",\"Llanadas\",\"Llanos de cuiv\\u00e1\",\"Maceo\",\"Marinilla\",\"Medellin\",\"Montebello\",\"Murindo\",\"Mutata\",\"Nari\\u00f1o\",\"Nechi\",\"Necocli\",\"Nueva colonia\",\"Olaya\",\"Palermo\",\"Palmitas\",\"Peque\",\"Pueblorrico\",\"Puerto belgica\",\"Puerto berrio\",\"Puerto nare\",\"Puerto triunfo\",\"Puerto valdivia\",\"Remedios\",\"Retiro\",\"Rionegro\",\"Sabanalarga\",\"Sabaneta\",\"Salgar\",\"San andres de cuerquia\",\"San antonio de prado\",\"San carlos\",\"San francisco\",\"San jeronimo\",\"San jose de la monta\\u00f1a\",\"San jose del nus\",\"San juan de uraba\",\"San luis\",\"San miguel\",\"San pedro de los milagros\",\"San pedro de uraba\",\"San rafael\",\"San roque\",\"Santa barbara\",\"Santa elena\",\"Santa fe de antioquia\",\"Santa isabell\",\"Santa rosa de osos\",\"Santiago\",\"Santo domingo\",\"San vicente\",\"Segovia\",\"Sevilla\",\"Sonson\",\"Sopetran\",\"Tamesis\",\"Taraza\",\"Tarso\",\"Titiribi\",\"Toledo\",\"Turbo\",\"Uramita\",\"Urrao\",\"Valdivia\",\"Valparaiso\",\"Vegachi\",\"Venecia\",\"Versalles\",\"Yali\",\"Vig\\u00eda del fuerte\",\"Yarumal\",\"Yolombo\",\"Yondo casabe\",\"Zaragoza\",\"Zungo carretera\"],\"Arauca\":[\"Arauca\",\"Arauquita\",\"Cravo norte\",\"Fortul\",\"La esmeralda\",\"La pesquera\",\"Puerto nari\\u00f1o\",\"Puerto rondon\",\"Saravena\",\"Tame\"],\"Atl\\u00e1ntico\":[\"Arroyo de piedra\",\"Baranoa\",\"Barranquilla\",\"Campeche\",\"Campo de la cruz\",\"Candelaria\",\"Galapa\",\"Isabel lopez\",\"Juan de acosta\",\"Juan mina\",\"La pe\\u00f1a\",\"Luruaco\",\"Malambo\",\"Manati\",\"Molineros\",\"Palmar de varela\",\"Piojo\",\"Playa mendoza\",\"Polonuevo\",\"Ponedera\",\"Puerto colombia\",\"Puerto giraldo\",\"Repelon\",\"Sabanagrande\",\"Sabanalarga\",\"Salgar\",\"Santa lucia\",\"Santa veronica\",\"Santo tomas\",\"Soledad\",\"Suan\",\"Tubara\",\"Usiacuri\"],\"Bogota d.c\":[\"Bogot\\u00e1\"],\"Bol\\u00edvar\":[\"Achi\",\"Arenal\",\"Arjona\",\"Ballestas\",\"Barranco de loba\",\"Baru\",\"Bayunca\",\"Buena sena\",\"Calamar\",\"Cantagallo\",\"Cartagena\",\"Cicuco\",\"Clemencia\",\"Cordoba\",\"El carmen de bolivar\",\"El guamo\",\"Galerazamba\",\"Hatillo de loba\",\"Juan arias\",\"La boquilla\",\"Loma de arena\",\"Magangue\",\"Mahates\",\"Margarita\",\"Maria la baja\",\"Mompos\",\"Montecristo\",\"Morales\",\"Norosi\",\"Pasacaballos\",\"Pontezuela\",\"Puerto rico - tiquisio\",\"Regidor\",\"Rio viejo\",\"San estanislao\",\"San fernando\",\"San jacinto\",\"San juan nepomuceno\",\"San martin de loba\",\"San pablo\",\"Santa ana\",\"Santa catalina\",\"Santa rosa\",\"Santa rosa del sur\",\"Simiti\",\"Soplaviento\",\"Talaigua nuevo\",\"Turbaco\",\"Turbana\",\"Villanueva\",\"Zambrano\"],\"Boyac\\u00e1\":[\"Almeida\",\"Aquitania\",\"Arcabuco\",\"Belen\",\"Belencito\",\"Berbeo\",\"Beteitiva\",\"Boavita\",\"Boyaca\",\"Brice\\u00f1o\",\"Buenavista\",\"Busbanza\",\"Caldas\",\"Campohermoso\",\"Cerinza\",\"Chinavita\",\"Chiquinquira\",\"Chiquiza\",\"Chiscas\",\"Chita\",\"Chitaraque\",\"Chivata\",\"Chivor\",\"Ci\\u00e9nega\",\"Combita\",\"Coper\",\"Corrales\",\"Coscuez\",\"Covarachia\",\"Cubara\",\"Cucaita\",\"Cuitiva\",\"Duitama\",\"El cocuy\",\"El espino\",\"Firavitoba\",\"Floresta\",\"Gachantiva\",\"Gameza\",\"Garagoa\",\"Guacamayas\",\"Guateque\",\"Guayata\",\"Guic\\u00e1n\",\"Iza\",\"Jenesano\",\"Jeric\\u00f3\",\"Labranzagrande\",\"La capilla\",\"La uvita\",\"La victoria\",\"Macanal\",\"Maripi\",\"Miraflores\",\"Mongua\",\"Mongui\",\"Moniquira\",\"Motavita\",\"Muzo\",\"Nari\\u00f1o\",\"Nobsa\",\"Nuevo colon\",\"Oicata\",\"Otanche\",\"Pachavita\",\"Paez\",\"Paipa\",\"Pajarito\",\"Panqueba\",\"Pantano de vargas\",\"Pauna\",\"Paz de rio\",\"Pesca\",\"Puente boyaca\",\"Puerto boyaca\",\"Puerto serviez\",\"Quipama\",\"Ramiriqui\",\"Raquira\",\"Rondon\",\"Saboya\",\"Sachica\",\"Samaca\",\"San eduardo\",\"San jose de pare\",\"San luis de gaceno\",\"San mateo\",\"San miguel de sema\",\"San pablo de borbur\",\"Santa barbara\",\"Santa maria\",\"Santana\",\"Santa rosa de viterbo\",\"Santa sofia\",\"Sativanorte\",\"Sativasur\",\"Siachoque\",\"Soata\",\"Socha\",\"Socota\",\"Sogamoso\",\"Somondoco\",\"Sora\",\"Soraca\",\"Sotaquir\\u00e1\",\"Susacon\",\"Sutamarchan\",\"Sutatenza\",\"Tasco\",\"Tenza\",\"Tibana\",\"Tibasosa\",\"Tinjaca\",\"Tipacoque\",\"Toca\",\"Togui\",\"Topaga\",\"Tota\",\"Tunja\",\"Tunungua\",\"Turmeque\",\"Tuta\",\"Tutaza\",\"Umbita\",\"Ventaquemada\",\"Villa de leyva\",\"Viracacha\",\"Zetaquira\"],\"Caldas\":[\"Aguadas\",\"Anserma\",\"Aranzazu\",\"Arauca\",\"Arboleda\",\"Arma\",\"Belalcazar\",\"Bolivia\",\"Bonafont\",\"Castilla\",\"Chinchina\",\"Filadelfia\",\"Florencia\",\"Guarinocito\",\"La dorada\",\"La felisa\",\"La merced\",\"Manizales\",\"Manzanares\",\"Marmato\",\"Marquetalia\",\"Marulanda\",\"Montebonito\",\"Neira\",\"Norcasia\",\"Pacora\",\"Palestina\",\"Pensilvania\",\"Riosucio\",\"Risaralda\",\"Salamina\",\"Samana\",\"Samaria\",\"San bartolome\",\"San daniel\",\"San diego\",\"San felix\",\"San jose\",\"Supia\",\"Victoria\",\"Villamaria\",\"Viterbo\"],\"Caquet\\u00e1\":[\"Albania\",\"Belen de los andaquies\",\"Cartagena del chaira\",\"Curillo\",\"El doncello\",\"El paujil\",\"Florencia\",\"La monta\\u00f1ita\",\"Morelia\",\"Puerto rico\",\"Rionegro\",\"San jose del fragua\",\"San vicente del caguan\",\"Solita\",\"Valparaiso\"],\"Casanare\":[\"Aguaclara\",\"Aguazul\",\"Araguaney\",\"Cusiana pozo\",\"Ch\\u00e1meza\",\"Hato corozal\",\"La chaparrera\",\"La salina\",\"Mani\",\"Monterrey\",\"Nunchia\",\"Orocue\",\"Paz de ariporo\",\"Pore\",\"Recetor\",\"Sabanalarga\",\"S\\u00e1cama\",\"San luis de palenque\",\"T\\u00e1mara\",\"Tauramena\",\"Trinidad\",\"Villacarola\",\"Villanueva\",\"Yopal\"],\"Cauca\":[\"Almaguer\",\"Argelia\",\"Balboa\",\"Bol\\u00edvar\",\"Buenos Aires\",\"Cajib\\u00edo\",\"Caldono\",\"Caloto\",\"Corinto\",\"El tambo\",\"Florencia\",\"Guachen\\u00e9\",\"Guapi\",\"Inz\\u00e1\",\"Jambal\\u00f3\",\"La Sierra\",\"La Vega\",\"Mercaderes\",\"Miranda\",\"Morales\",\"Padilla\",\"Paez\",\"Pat\\u00eda\",\"Piamonte\",\"Piendam\\u00f3\",\"Popay\\u00e1n\",\"Puerto Tejada\",\"Purac\\u00e9\",\"Rosas\",\"San Sebastian\",\"Santander de Quilichao\",\"Santa Rosa\",\"Silvia\",\"Sotara\",\"Su\\u00e1rez\",\"Sucre\",\"Timb\\u00edo\",\"Timbiqu\\u00ed\",\"Toribio\",\"Totor\\u00f3\",\"Villa Rica\"],\"Cesar\":[\"Aguachica\",\"Arjona\",\"Astrea\",\"Ayacucho\",\"Becerril\",\"Bosconia\",\"Caracolicito\",\"Chimichagua\",\"Chiriguana\",\"Codazzi\",\"Curumani\",\"El copey\",\"El paso\",\"Gamarra\",\"Gonzalez\",\"La gloria\",\"La jagua de ibirico\",\"La loma\",\"La paz\",\"Manaure balcon del cesar\",\"Pailitas\",\"Pelaya\",\"Pueblo bello\",\"Rincon hondo\",\"Rio de oro\",\"San alberto\",\"San diego\",\"San martin\",\"San roque\",\"Tamalameque\",\"Valledupar\"],\"Choc\\u00f3\":[\"Acandi\",\"Alto baudo\",\"Andagoya\",\"Animas\",\"Bahia solano mutis\",\"Bajo baudo pizarro\",\"Belen de bajira\",\"Bojaya\",\"Capurgana\",\"Certegui\",\"Condoto\",\"El carmen de atrato\",\"Guarato\",\"Istmina\",\"Jurado\",\"Lloro\",\"Novita\",\"Nuqui\",\"Quibdo\",\"Riosucio\",\"San jose del palmar\",\"Santa maria del darien\",\"Sipi\",\"Tado\",\"Tutunendo\",\"Unguia\",\"Yuto\"],\"C\\u00f3rdoba\":[\"Ayapel\",\"Buena vista\",\"Canalete\",\"Carillo\",\"Cerete\",\"Chima\",\"Chinu\",\"Cienaga de oro\",\"Colomboy\",\"Cotorra\",\"El carito\",\"El varal\",\"El viajano\",\"La apartada\",\"La ye\",\"Lorica\",\"Los cordobas\",\"Momil\",\"Mo\\u00f1itos\",\"Montelibano\",\"Monteria\",\"Planeta rica\",\"Pueblo nuevo\",\"Puerto escondido\",\"Puerto libertador\",\"Purisima\",\"Sahagun\",\"San andres de sotavento\",\"San antero\",\"San bernardo del viento\",\"San carlos\",\"San jose de ure\",\"San pelayo\",\"San sebastian\",\"Tierra alta\",\"Tuchin\",\"Valencia\",\"Villa fatima\"],\"Cundinamarca\":[\"Agua de dios\",\"Alban\",\"Anapoima\",\"Anolaima\",\"Apulo\",\"Arbelaez\",\"Bituima\",\"Bojaca\",\"Brice\\u00f1o\",\"Cabrera\",\"Cachipay\",\"Cajic\\u00e1\",\"Cambao\",\"Caparrapi\",\"Capellania\",\"Caqueza\",\"Carmen de carupa\",\"Cartagena\",\"Chaguani\",\"Chia\",\"Chinauta\",\"Chipaque\",\"Choachi\",\"Choconta\",\"Chusaca\",\"Cogua\",\"Cota\",\"Cucunuba\",\"El charquito\",\"El colegio mesitas\",\"El pe\\u00f1\\u00f3n\",\"El rosal\",\"El sisga\",\"El triunfo\",\"Facatativ\\u00e1\",\"Fomeque\",\"Fosca\",\"Funza\",\"Fuquene\",\"Fusagasuga\",\"Gachala\",\"Gachancipa\",\"Gacheta\",\"Gama\",\"Girardot\",\"Granada\",\"Guacheta\",\"Guaduas\",\"Guasca\",\"Guataqui\",\"Guatavita\",\"Guayabal de siquima\",\"Guayabetal\",\"Gutierrez\",\"Jerusalen\",\"Junin\",\"La calera\",\"La florida\",\"La gran via\",\"La mesa\",\"La palma\",\"La pe\\u00f1a\",\"La punta\",\"La union\",\"La vega\",\"La victoria\",\"Lenguazaque\",\"Macheta\",\"Madrid\",\"Manta\",\"Maya\",\"Medina\",\"Mosquera\",\"Nari\\u00f1o\",\"Nemocon\",\"Nilo\",\"Nimaima\",\"Nocaima\",\"Pacho\",\"Paime\",\"Pandi\",\"Paratebueno\",\"Pasca\",\"Puente de piedra\",\"Puente quetame\",\"Puerto bogota\",\"Puerto salgar\",\"Puli\",\"Quebradanegra\",\"Quetame\",\"Quipile\",\"Ricaurte\",\"San ant de tequen\",\"San bernardo\",\"San cayetano\",\"San francisco\",\"San juan de rioseco\",\"Santandersito\",\"Sasaima\",\"Sesquile\",\"Sibate\",\"Silvania\",\"Simijaca\",\"Soacha\",\"Sopo\",\"Subachoque\",\"Subia\",\"Suesca\",\"Supata\",\"Susa\",\"Sutatausa\",\"Tabio\",\"Tausa\",\"Tena\",\"Tenjo\",\"Tibacuy\",\"Tibirita\",\"Tobia\",\"Tocaima\",\"Tocancipa\",\"Topaipi\",\"Tudela\",\"Ubala\",\"Ubaque\",\"Ubate\",\"Une\",\"Utica\",\"Venecia\",\"Vergara\",\"Viani\",\"Villagomez\",\"Villapinzon\",\"Villeta\",\"Viota\",\"Yacopi\",\"Zipacon\",\"Zipaquira\"],\"Guain\\u00eda\":[\"Cacahual\",\"Guaviare\",\"Inirida\",\"Morichal Nuevo\",\"Pana Pana\",\"Puerto Colombia\",\"San Felipe\"],\"Guaviare\":[\"Calamar\",\"El Retorno\",\"Miraflores\",\"San jose del guaviare\"],\"Huila\":[\"Acevedo\",\"Agrado\",\"Aipe\",\"Algeciras\",\"Altamira\",\"Argentina\",\"Baraya\",\"Belen\",\"Bruselas\",\"Campoalegre\",\"Colombia\",\"Garzon\",\"Gigante\",\"Guadalupe\",\"Hobo\",\"Iquira\",\"La plata\",\"Nataga\",\"Neiva\",\"Oporapa\",\"Paicol\",\"Palermo\",\"Palestina\",\"Pital\",\"Pitalito\",\"Rivera\",\"Salado blanco\",\"San adolfo\",\"San agustin\",\"San jose de isnos\",\"Santa maria\",\"Suaza\",\"Tarqui\",\"Tello\",\"Teruel\",\"Tesalia\",\"Timana\",\"Vegalarga\",\"Villa vieja\",\"Yaguara\"],\"La Guajira\":[\"Albania\",\"Barrancas\",\"Buenavista\",\"Distraccion\",\"El molino\",\"Fonseca\",\"Hato nuevo\",\"La jagua del pilar\",\"Maicao\",\"Manaure\",\"Mingueo\",\"Riohacha\",\"San juan del cesar\",\"Uribia\",\"Urumita\",\"Villanueva\"],\"Magdalena\":[\"Algarrobo\",\"Aracataca\",\"Cerro san antonio\",\"Chivolo\",\"Cienaga\",\"Concordia\",\"El banco\",\"El dificil\",\"El pi\\u00f1on\",\"El reten\",\"Fundacion\",\"Gaira\",\"Guacamayal\",\"Guaimaro\",\"Guamal\",\"La gran via\",\"Media luna\",\"Nueva granada\",\"Orihueca\",\"Palermo\",\"Pedraza\",\"Piji\\u00f1o del carmen\",\"Pivijay\",\"Plato\",\"Prado sevilla\",\"Pueblonuevo\",\"Puebloviejo\",\"Remolino\",\"Riofrio\",\"Sabanas de san angel\",\"Salamina\",\"San fernando\",\"San sebast de buenavi\",\"Santa ana\",\"Santa barbara de pinto\",\"Santa marta\",\"San zenon\",\"Sitio nuevo\",\"Taganga\",\"Tenerife\",\"Tucurinca\"],\"Meta\":[\"Acacias\",\"Apiay\",\"Barranca de upia\",\"Castilla la nueva\",\"Cubarral san luis\",\"Cumaral\",\"Fuente de oro\",\"Granada\",\"Guamal\",\"La macarena\",\"Pachaquiaro\",\"Puerto concordia\",\"Puerto gaitan\",\"Puerto lleras\",\"Puerto lopez\",\"Puerto rico\",\"Restrepo\",\"San juan de arama\",\"San martin\",\"Uribe\",\"Villavicencio\",\"Vista hermosa\"],\"Nari\\u00f1o\":[\"Aldana\",\"Altaquer\",\"Ancuya\",\"Barbacoas\",\"Belen\",\"Berruecos arboleda\",\"Buesaco\",\"Buesaquillo\",\"Cabrera\",\"Cajapi\",\"Candelillas\",\"Carlosama  cuaspud\",\"Catambuco\",\"Cebadal\",\"Chachagui\",\"Chucunes\",\"Consaca\",\"Contadero\",\"Cordoba\",\"Cuatro esquinas\",\"Cumbal\",\"Cumbitara\",\"Daza\",\"El charco\",\"El diviso\",\"El encano\",\"El espino\",\"El pe\\u00f1ol\",\"El remolino\",\"El rosario\",\"El tablon de gomez\",\"El tambo\",\"Espriella\",\"Funes\",\"Genova\",\"Genoy\",\"Guachavez san cruz\",\"Guachucal\",\"Guaitarilla\",\"Gualmatan\",\"Iles\",\"Imbili\",\"Imues\",\"Ipiales\",\"Jose maria hernandez\",\"Junin\",\"La cruz\",\"La florida\",\"La guayacana\",\"La llanada\",\"Las lajas\",\"La union\",\"Leiva\",\"Linares\",\"Llorente\",\"Mocondino\",\"Nari\\u00f1o\",\"Obonuco\",\"Ospina\",\"Pasto\",\"Piedrahancha\",\"Pilcuan\",\"Pinzon\",\"Policarpa\",\"Potosi\",\"Providencia\",\"Puerres\",\"Pupiales\",\"Ricaurte\",\"Samaniego\",\"San bernardo\",\"Sandona\",\"San jose de alban\",\"San lorenzo\",\"San pablo\",\"San pedro de cartago\",\"Sapuyes\",\"Sotomayor\",\"Taminango\",\"Tangareal carretera\",\"Tangareal del mira\",\"Tangua\",\"Tumaco\",\"Tuquerres\",\"Yacuanquer\"],\"Norte de Santander\":[\"\\u00c1brego\",\"Arboledas\",\"Bochalema\",\"Bucarasica\",\"C\\u00e1chira\",\"C\\u00e1cota\",\"Chin\\u00e1cota\",\"Chitag\\u00e1\",\"Convenci\\u00f3n\",\"C\\u00facuta\",\"Cucutilla\",\"Durania\",\"El Carmen\",\"El Zulia\",\"Gramalote\",\"Hacar\\u00ed\",\"Herr\\u00e1n\",\"Labateca\",\"La Esperanza\",\"Los Patios\",\"Lourdes\",\"Mutiscua\",\"Oca\\u00f1a\",\"Pamplona\",\"Pamplonita\",\"Puerto Santander\",\"Ragonvalia\",\"Salazar\",\"San Calixto\",\"San Cayetano\",\"Santiago\",\"Sardinata\",\"Silos\",\"Teorama\",\"Tib\\u00fa\",\"Toledo\",\"Villa Caro\",\"Villa del Rosario\"],\"Putumayo\":[\"Colon\",\"El tigre\",\"La dorada san miguel\",\"La hormiga - valle guamuez\",\"Mocoa\",\"Orito\",\"Puerto asis\",\"Puerto caicedo\",\"Puerto guzman\",\"Puerto leguizamo\",\"Puerto umbria\",\"San francisco\",\"Santana\",\"Santiago\",\"Sibundoy\",\"Villagarzon\"],\"Quind\\u00edo\":[\"Armenia\",\"Barcelona\",\"Buenavista\",\"Calarca\",\"Circasia\",\"Cordoba\",\"Filandia\",\"Genova\",\"La tebaida\",\"Montenegro\",\"Pijao\",\"Quimbaya\",\"Salento\"],\"Risaralda\":[\"Apia\",\"Balboa\",\"Bel\\u00e9n de Umbria\",\"Dosquebradas\",\"Gu\\u00e1tica\",\"Irra\",\"La Celia\",\"La Virginia\",\"Marsella\",\"Mistrato\",\"Pereira\",\"Pueblo Rico\",\"Quinch\\u00eda\",\"San Clemente\",\"Santa Rosa de Cabal\",\"Santuario\"],\"San Andr\\u00e9s y Providencia\":[\"Providencia\",\"San andres isla\",\"Santa catalina\"],\"Santander\":[\"Acapulco\",\"Aguada\",\"Aratoca\",\"Barbosa\",\"Barichara\",\"Barrancabermeja\",\"Bolivar\",\"Bucaramanga\",\"Capitanejo\",\"Cerrito\",\"Charala\",\"Chipata\",\"Cimitarra\",\"Concepcion\",\"Contratacion\",\"Curiti\",\"El carmen de chucuri\",\"El centro\",\"El pe\\u00f1on\",\"El playon\",\"Enciso\",\"Florian\",\"Floridablanca\",\"Galan\",\"Gambita\",\"Giron\",\"Guaca\",\"Guadalupe\",\"Guavata\",\"Guepsa\",\"Jesus maria\",\"La belleza\",\"La granja\",\"Landazuri\",\"La paz\",\"Lebrija\",\"Malaga\",\"Matanza\",\"Mogotes\",\"Molagavita\",\"Oiba\",\"Olival\",\"Onzaga\",\"Paramo\",\"Pescadero\",\"Piedecuesta\",\"Pinchote\",\"Puente nacional\",\"Puerto araujo\",\"Puerto olaya\",\"Puerto parra\",\"Puerto wilches\",\"Rionegro\",\"Sabana de torres\",\"San andres\",\"San benito\",\"San gil\",\"San joaquin\",\"San jose de miranda\",\"Santa helena del opon\",\"San vicente de chucuri\",\"Simacota\",\"Socorro\",\"Suaita\",\"Sucre\",\"Vado real\",\"Valle de san jose\",\"Velez\",\"Villanueva\",\"Zapatoca\"],\"Sucre\":[\"Caimito\",\"Corozal\",\"Cove\\u00f1as\",\"Galeras\",\"Guaranda\",\"La union\",\"Los palmitos\",\"Majagual\",\"Morroa\",\"Ovejas\",\"Sampues\",\"San benito abad\",\"San marcos\",\"San onofre\",\"San pedro\",\"Sincelejo\",\"Since\",\"Sucre\",\"Tolu\",\"Tolu viejo\"],\"Tolima\":[\"Alpujarra\",\"Alvarado\",\"Ambalema\",\"Anzoategui\",\"Armero guayabal\",\"Ataco\",\"Boqueron\",\"Buenos aires\",\"Cajamarca\",\"Caldas viejo\",\"Carmen de apicala\",\"Casabianca\",\"Castilla\",\"Chaparral\",\"Chenche asoleado\",\"Chicoral\",\"Coello - cocora\",\"Coello\",\"Convenio\",\"Coyaima\",\"Cunday\",\"Doima\",\"Dolores\",\"El limon\",\"El tablazo\",\"El totumo\",\"Espinal\",\"Falan\",\"Flandes\",\"Fresno\",\"Gaitania\",\"Gualanday\",\"Guamo\",\"Herbeo\",\"Herrera\",\"Honda\",\"Ibague\",\"Icononzo\",\"Jun\\u00edn\",\"Juntas\",\"La arada\",\"La chamba\",\"La palmita\",\"La sierra\",\"Lerida\",\"Libano\",\"Mariquita\",\"Melgar\",\"Murillo\",\"Natagaima\",\"Olaya herrera\",\"Ortega\",\"Padua\",\"Palocabildo\",\"Pastales nuevo\",\"Pastales viejo\",\"Payande\",\"Piedras\",\"Planadas\",\"Playarrica\",\"Prado\",\"Purificacion\",\"Rioblanco\",\"Roncesvalles\",\"Rovira\",\"Saldana\",\"San antonio\",\"San felipe\",\"San luis\",\"Santa isabel\",\"Santa teresa\",\"Santiago perez\",\"Suarez\",\"Tres esquinas\",\"Valle de san juan\",\"Velu\",\"Venadillo\",\"Villahermosa\",\"Villarestrepo\",\"Villa rica\"],\"Valle del Cauca\":[\"Alcala\",\"Andaluc\\u00eda\",\"Ansermanuevo\",\"Argelia\",\"Bolivar\",\"Buenaventura\",\"Buga\",\"Bugalagrande\",\"Caicedonia\",\"Cali\",\"Calima\",\"Candelaria\",\"Cartago\",\"Dagua\",\"El \\u00c1guila\",\"El Cairo\",\"El Carmelo\",\"El Cerrito\",\"El Dovio\",\"Florida\",\"Ginebra\",\"Guacar\\u00ed\",\"Jamund\\u00ed\",\"La Cumbre\",\"La Paila\",\"La Union\",\"La Victoria\",\"Obando\",\"Palmira\",\"Pradera\",\"Restrepo\",\"Riofr\\u00edo\",\"Roldanillo\",\"San Pedro\",\"Sevilla\",\"Toro\",\"Trujillo\",\"Tulu\\u00e1\",\"Ulloa\",\"Versalles\",\"Vijes\",\"Yotoco\",\"Yumbo\",\"Zarzal\"],\"Vaup\\u00e9s\":[\"Acaricuara\",\"Carur\\u00fa\",\"Mitu\",\"Papanaua\",\"Taraira\",\"T\\u00edo barbas\",\"Yavarat\\u00e9\"],\"Vichada\":[\"Cumaribo\",\"La primavera\",\"Puerto carre\\u00f1o\",\"Santa rosalia\"]}}","i18n_select_city_text":"Elige una opci\u00f3n\u2026"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/departamentos-y-ciudades-de-colombia-para-woocommerce/js/place-select.js?ver=2.0.8" id="wc-city-select-js"></script>
+<script type="text/javascript" id="mailchimp-woocommerce-js-extra">
+/* <![CDATA[ */
+var mailchimp_public_data = {"site_url":"https:\/\/juanregala.com.co\/medellin","ajax_url":"https:\/\/juanregala.com.co\/medellin\/wp-admin\/admin-ajax.php","disable_carts":"","subscribers_only":"","language":"es","allowed_to_set_cookies":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=2.7.2.01" id="mailchimp-woocommerce-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" id="flatsome-js-js-extra">
+/* <![CDATA[ */
+var flatsomeVars = {"theme":{"version":"3.14.3"},"ajaxurl":"https:\/\/juanregala.com.co\/medellin\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70","assets_url":"https:\/\/juanregala.com.co\/medellin\/wp-content\/themes\/flatsome\/assets\/js\/","lightbox":{"close_markup":"<button title=\"%title%\" type=\"button\" class=\"mfp-close\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"><\/line><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"><\/line><\/svg><\/button>","close_btn_inside":false},"user":{"can_edit_pages":false},"i18n":{"mainMenu":"Men\u00fa Principal"},"options":{"cookie_notice_version":"1","swatches_layout":false,"swatches_box_select_event":false,"swatches_box_behavior_selected":false,"swatches_box_update_urls":"1","swatches_box_reset":false,"swatches_box_reset_extent":false,"swatches_box_reset_time":300,"search_result_latency":"0"},"is_mini_cart_reveal":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/themes/flatsome/assets/js/flatsome.js?ver=295a0d1d1e8168b25a51f884bffa7b33" id="flatsome-js-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/themes/flatsome/inc/integrations/wc-yith-wishlist/wishlist.js?ver=3.10.2" id="flatsome-woocommerce-wishlist-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.14.3" id="flatsome-live-search-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=4.5.9" id="joinchat-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/intersection-observer.js?minify=false&amp;ver=83ec8aa758f883d6da14" id="jetpack-lazy-images-polyfill-intersectionobserver-js"></script>
+<script type="text/javascript" id="jetpack-lazy-images-js-extra">
+/* <![CDATA[ */
+var jetpackLazyImagesL10n = {"loading_warning":"Las im\u00e1genes a\u00fan est\u00e1n cargando. Cancela la impresi\u00f3n y vuelve a intentarlo."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/lazy-images.js?minify=false&amp;ver=54eb31dc971b63b49278" id="jetpack-lazy-images-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=b3c807cf00d38de8d7f31c1197eb135d" id="flatsome-theme-woocommerce-js-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-includes/js/backbone.min.js?ver=1.4.1" id="backbone-js"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/mustache.js?ver=11.2-202250" id="mustache-js"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/mu-plugins/notes/notes-common-v2.js?ver=11.2-202250" id="wpcom-notes-common-js"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/mu-plugins/notes/admin-bar-v2.js?ver=11.2-202250" id="wpcom-notes-admin-bar-js"></script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0" id="jquery-selectBox-js"></script>
+<script type="text/javascript" src="//juanregala.com.co/medellin/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6" id="prettyPhoto-js"></script>
+<script type="text/javascript" id="jquery-yith-wcwl-js-extra">
+/* <![CDATA[ */
+var yith_wcwl_l10n = {"ajax_url":"\/medellin\/wp-admin\/admin-ajax.php","redirect_to_cart":"no","multi_wishlist":"","hide_add_button":"1","enable_ajax_loading":"","ajax_loader_url":"https:\/\/juanregala.com.co\/medellin\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader-alt.svg","remove_from_wishlist_after_add_to_cart":"1","is_wishlist_responsive":"1","time_to_close_prettyphoto":"3000","fragments_index_glue":".","reload_on_found_variation":"1","mobile_media_query":"768","labels":{"cookie_disabled":"Lo siento, pero esta caracter\u00edstica solo est\u00e1 disponible si las cookies de tu navegador est\u00e1n activadas.","added_to_cart_message":"<div class=\"woocommerce-notices-wrapper\"><div class=\"woocommerce-message\" role=\"alert\">Producto a\u00f1adido al carrito con \u00e9xito<\/div><\/div>"},"actions":{"add_to_wishlist_action":"add_to_wishlist","remove_from_wishlist_action":"remove_from_wishlist","reload_wishlist_and_adding_elem_action":"reload_wishlist_and_adding_elem","load_mobile_action":"load_mobile","delete_item_action":"delete_item","save_title_action":"save_title","save_privacy_action":"save_privacy","load_fragments":"load_fragments"},"nonce":{"add_to_wishlist_nonce":"91de9beac0","remove_from_wishlist_nonce":"fbf3433f82","reload_wishlist_and_adding_elem_nonce":"fc65da9260","load_mobile_nonce":"5be0a2ff48","delete_item_nonce":"db75d9a328","save_title_nonce":"c8fc9e9430","save_privacy_nonce":"a0e0dd969b","load_fragments_nonce":"5e8353f601"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.min.js?ver=3.10.0" id="jquery-yith-wcwl-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/medellin\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-variation-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/medellin\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Lo siento, no hay productos que igualen tu selecci\u00f3n. Por favor, escoge una combinaci\u00f3n diferente.","i18n_make_a_selection_text":"Elige las opciones del producto antes de a\u00f1adir este producto a tu carrito.","i18n_unavailable_text":"Lo siento, este producto no est\u00e1 disponible. Por favor, elige otra combinaci\u00f3n."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://juanregala.com.co/medellin/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=6.8.2" id="wc-add-to-cart-variation-js"></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+jQuery( 'div.woocommerce' ).on( 'click', 'a.remove', function() {
+				var productID = jQuery( this ).data( 'product_id' );
+				var quantity = jQuery( this ).parent().parent().find( '.qty' ).val()
+				var productDetails = {
+					'id': productID,
+					'quantity': quantity ? quantity : '1',
+				};
+				_wca.push( {
+					'_en': 'woocommerceanalytics_remove_from_cart',
+					'pi': productDetails.id,
+					'pq': productDetails.quantity, 'blog_id': '207192828', 'ui': '207192828:58', 'url': 'https://juanregala.com.co/medellin', 'woo_version': '6.8.2', 'cart_page_contains_cart_block': '0', 'cart_page_contains_cart_shortcode': '1', 'checkout_page_contains_checkout_block': '0', 'checkout_page_contains_checkout_shortcode': '1', 
+				} );
+			} );
+
+
+			jQuery( 'button[name=update_cart]' ).on( 'click', function() {
+				var cartItems = jQuery( '.cart_item' );
+				cartItems.each( function( item ) {
+					var qty = jQuery( this ).find( 'input.qty' );
+					if ( qty && qty.val() === '0' ) {
+						var productID = jQuery( this ).find( '.product-remove a' ).data( 'product_id' );
+						_wca.push( {
+							'_en': 'woocommerceanalytics_remove_from_cart',
+							'pi': productID, 'blog_id': '207192828', 'ui': '207192828:58', 'url': 'https://juanregala.com.co/medellin', 'woo_version': '6.8.2', 'cart_page_contains_cart_block': '0', 'cart_page_contains_cart_shortcode': '1', 'checkout_page_contains_checkout_block': '0', 'checkout_page_contains_checkout_shortcode': '1', 
+						} );
+					}
+				} );
+			} );
+ });
+</script>
+
+
+
+<script type="text/javascript" id="">(function(){var a=window._fbq||(window._fbq=[]);if(!a.loaded){var b=document.createElement("script");b.async=!0;b.src="//connect.facebook.net/en_US/fbds.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c);a.loaded=!0}a.push(["addPixelId","1639353432970501"])})();window._fbq=window._fbq||[];window._fbq.push(["track","PixelInitialized",{}]);</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1639353432970501&amp;ev=PixelInitialized"></noscript><script async="" charset="UTF-8" src="https://embed.tawk.to/_s/v4/app/637ddf31c8f/languages/es.js"></script><div id="befosqjso371671073261298" class="widget-hidden"><iframe src="about:blank" frameborder="0" scrolling="no" width="64px" height="60px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:20px !important; bottom:20px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:60px !important; min-width:64px !important; max-height:60px !important; max-width:64px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:64px !important; height:60px !important; display:block !important; z-index:1000001 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="z0as6u7vuhe81671073261390" class="" title="chat widget"></iframe><iframe src="about:blank" frameborder="0" scrolling="no" width="350px" height="520px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:10px !important; bottom:90px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:520px !important; min-width:350px !important; max-height:520px !important; max-width:350px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:350px !important; height:520px !important; display:none !important; z-index:auto !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:5px !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="tqfom325i97o1671073261512" class="" title="chat widget"></iframe><iframe src="about:blank" frameborder="0" scrolling="no" width="360px" height="145px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:20px !important; bottom:100px; left:auto !important; position:fixed !important; border:0 !important; min-height:145px !important; min-width:360px !important; max-height:145px !important; max-width:360px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:360px !important; height:145px !important; display:none !important; z-index:auto !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="hlh01gb9h9eo1671073261482" class="" title="chat widget"></iframe><iframe src="about:blank" frameborder="0" scrolling="no" width="124px" height="95px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:0px !important; bottom:30px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:95px !important; min-width:124px !important; max-height:95px !important; max-width:124px !important; padding:0 !important; margin:0px 0 0 0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:rotate(0deg) translateZ(0); -webkit-transform:rotate(0deg) translateZ(0); -ms-transform:rotate(0deg) translateZ(0); width:124px !important; height:95px !important; display:none !important; z-index:1000002 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important; -moz-transform:rotate(0deg) translateZ(0); -o-transform:rotate(0deg) translateZ(0); transform-origin:0; -moz-transform-origin:0; -webkit-transform-origin:0; -o-transform-origin:0; -ms-transform-origin:0;" id="cvmrsrktdfp81671073261444" class="" title="chat widget"></iframe></div></body></html>
